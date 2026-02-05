@@ -1,0 +1,14 @@
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\bin\Debug\net10.0\ProblemaTrianguloSemOO.exe
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\bin\Debug\net10.0\ProblemaTrianguloSemOO.deps.json
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\bin\Debug\net10.0\ProblemaTrianguloSemOO.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\bin\Debug\net10.0\ProblemaTrianguloSemOO.dll
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\bin\Debug\net10.0\ProblemaTrianguloSemOO.pdb
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\obj\Debug\net10.0\ProblemaTrianguloSemOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\obj\Debug\net10.0\ProblemaTrianguloSemOO.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\obj\Debug\net10.0\ProblemaTrianguloSemOO.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\obj\Debug\net10.0\ProblemaTrianguloSemOO.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\obj\Debug\net10.0\ProblemaTrianguloSemOO.dll
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\obj\Debug\net10.0\refint\ProblemaTrianguloSemOO.dll
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\obj\Debug\net10.0\ProblemaTrianguloSemOO.pdb
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\obj\Debug\net10.0\ProblemaTrianguloSemOO.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloSemOO\ProblemaTrianguloSemOO\obj\Debug\net10.0\ref\ProblemaTrianguloSemOO.dll
