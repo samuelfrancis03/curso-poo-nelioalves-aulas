@@ -11,6 +11,9 @@ Console.WriteLine("""
     Escolha o exercicio:
     1 - Classe Pessoa
     2 - Classe Funcionario
+    3 - Exercicio Retangulo 
+    4 - Exercicio Funcionário
+    5 - Exercicio Aluno
     """);
 int opcao = int.Parse(Console.ReadLine());
 
@@ -21,6 +24,15 @@ switch (opcao)
         break;
     case 2:
         ExercicioClasseFuncionario();
+        break;
+    case 3:
+        ExercicioRetangulo();
+        break;
+    case 4:
+        ExercicioFuncionario();
+        break;
+    case 5:
+        ExercicioAluno();
         break;
     default:
         Console.WriteLine("Opção é invalida");
@@ -81,4 +93,53 @@ static void ExercicioClasseFuncionario()
 
     double salarioMedio = (p1.Salario + p2.Salario) / 2;
     Console.WriteLine("Salário médio = " + salarioMedio.ToString("F2", CultureInfo.InvariantCulture));
+}
+
+static void ExercicioRetangulo()
+{
+    Retangulo retangulo = new Retangulo();
+    
+    Console.WriteLine("Entre com a largura e altura do retângulo: ");
+    retangulo.Largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    retangulo.Altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    Console.WriteLine("Area = " + retangulo.Area().ToString("F2", CultureInfo.InvariantCulture));
+    Console.WriteLine("Perimetro = " + retangulo.Perimetro().ToString("F2", CultureInfo.InvariantCulture));
+    Console.WriteLine("Diagonal = " + retangulo.Diagonal().ToString("F2", CultureInfo.InvariantCulture)); 
+}
+
+static void ExercicioFuncionario() 
+{
+    Funcionario funcionario = new Funcionario();
+
+    Console.Write("Nome: ");
+    funcionario.Nome = Console.ReadLine();
+    Console.Write("Salário Bruto: ");
+    funcionario.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    Console.Write("Imposto: ");
+    funcionario.Imposto = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    Console.WriteLine("Funcionário: " + funcionario);
+
+    Console.Write("Digite a porcentagem para aumentar o saláio: ");
+    double prAumento = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    funcionario.AumentarSalario(prAumento);
+
+    Console.WriteLine("Dados atualizados: " + funcionario);
+
+}
+
+static void ExercicioAluno() 
+{
+    Aluno aluno = new Aluno();
+
+    Console.Write("Nome do aluno: ");
+    aluno.Nome = Console.ReadLine();
+    Console.WriteLine("Digite as três notas do aluno: ");
+    aluno.NotaT1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    aluno.NotaT2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    aluno.NotaT3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+    Console.WriteLine("Nota final: " + aluno.NotaFinal().ToString("F2", CultureInfo.InvariantCulture));
+    aluno.ValidaAprovacao();
 }
