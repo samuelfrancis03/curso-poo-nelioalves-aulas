@@ -11,5 +11,13 @@ namespace ProblemaTrianguloComOO
         public double LadoB { get; set; }
         public double LadoC { get; set; }
 
+
+        //Metodo de calcular area do triangulo
+        public double Area() 
+        {
+            double p = (LadoA + LadoB + LadoC) / 2;
+            return Math.Sqrt(p * (p - LadoA) * (p - LadoB) * (p - LadoC));
+        }
+
     }
 }
