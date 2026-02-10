@@ -14,6 +14,7 @@ Console.WriteLine("""
     3 - Exercicio Retangulo 
     4 - Exercicio Funcionário
     5 - Exercicio Aluno
+    6 - Exerciocio Membros Estaticos
     """);
 int opcao = int.Parse(Console.ReadLine());
 
@@ -33,6 +34,9 @@ switch (opcao)
         break;
     case 5:
         ExercicioAluno();
+        break;
+    case 6:
+        ExercicioMembrosEstaticos();
         break;
     default:
         Console.WriteLine("Opção é invalida");
@@ -142,4 +146,14 @@ static void ExercicioAluno()
 
     Console.WriteLine("Nota final: " + aluno.NotaFinal().ToString("F2", CultureInfo.InvariantCulture));
     aluno.ValidaAprovacao();
+}
+
+static void ExercicioMembrosEstaticos() 
+{
+    Console.Write("Cotação do dólar: $ ");
+    ConversorDeMoeda.cotacaoDolar = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    Console.WriteLine("Doláres que vai comprar: $ ");
+    ConversorDeMoeda.compraDolar = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    Console.Write("Valor a ser pago em reais: R$ " + ConversorDeMoeda.ValorCompra().ToString("F2", CultureInfo.InvariantCulture));
+
 }
