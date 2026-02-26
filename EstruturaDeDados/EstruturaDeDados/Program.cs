@@ -4,8 +4,8 @@ using System.Globalization;
 using System.Security.Cryptography.X509Certificates;
 
 //AulaNullable();
-AulaVetores();
-
+//AulaVetores();
+AulaListas();
 
 static void AulaNullable() 
 {
@@ -125,6 +125,87 @@ static void AulaVetores()
         Console.WriteLine("AVERAGE PRICE = " + avg.ToString("F2", CultureInfo.InvariantCulture));
 
     }
-   
+}
+
+static void AulaListas()
+{
+    //instaciando lista
+    List<string> list = new List<string>();
+
+    //adicionand lista
+    list.Add("Maria");
+    list.Add("Alex");
+    list.Add("Bob");
+    list.Add("Anna");
+    list.Add("Samuel");
+    list.Add("Francis");
+    list.Add("Da");
+    list.Add("Rocha");
+    list.Add("Alves");
+    list.Add("Kaio");
+    list.Add("Jorge");
+    list.Add("Matheus");
+    list.Add("Pereira");
+    list.Insert(2, "Marco"); //podemos especificar a posição de inserção
+
+    foreach (string obj in list)
+    {
+        Console.WriteLine(obj);
+    }
+
+    //mostrar tamanho da lista
+    Console.WriteLine("List count: " + list.Count);
+
+    //encontrar o primeiro ELEMENTO da lista de acordo com condições
+    string s1 = list.Find(x => x[0] == 'A'); //função lambda
+    Console.WriteLine("First 'A': " + s1);
+
+    //encontrar o ultimo ELEMENTO da lista de acordo com condições
+    string s2 = list.FindLast(x => x[0] == 'A'); //função lambda
+    Console.WriteLine("Last 'A': " + s2);
+
+    //encontrar a primeira POSIÇÃO da lista de acordo com condições
+    int pos1 = list.FindIndex(x => x[0] == 'A');
+    Console.WriteLine("First position 'A': " + pos1);
+
+    //encontrar a ultima POSIÇÃO da lista de acordo com condições
+    int pos2 = list.FindLastIndex(x => x[0] == 'A');
+    Console.WriteLine("Last position 'A': " + pos2);
+
+    //filtrar a lista de acordo com condições
+    List<string> list2 = list.FindAll(x => x.Length == 5);
+
+    foreach (string obj in list2) 
+    {
+        Console.WriteLine(obj);
+    }
+
+    //remover elementos da lista
+    list.Remove("Alex");
+    foreach (string obj in list)
+    {
+        Console.WriteLine(obj);
+    }
+
+    //remover elementos da lista de acordo com condições
+    list.RemoveAll(x => x[0] == 'M');
+    foreach (string obj in list)
+    {
+        Console.WriteLine(obj);
+    }
+
+    //remover elementos da lista de acordo com sua posição
+    list.RemoveAt(3);
+    foreach (string obj in list)
+    {
+        Console.WriteLine(obj);
+    }
+
+    //remover elementos de acordo com uma faixa
+    list.RemoveRange(2, 2); // a partir da posição 2, remova 2 posições
+    foreach (string obj in list)
+    {
+        Console.WriteLine(obj);
+    }
 
 }
