@@ -5,7 +5,8 @@ using System.Security.Cryptography.X509Certificates;
 
 //AulaNullable();
 //AulaVetores();
-AulaListas();
+//AulaListas();
+AulaMatriz();
 
 static void AulaNullable() 
 {
@@ -208,4 +209,52 @@ static void AulaListas()
         Console.WriteLine(obj);
     }
 
+}
+
+static void AulaMatriz() 
+{
+    //Declarando Matriz
+    double[,] mat = new double[2, 3]; //Matriz de 2 linhas e 3 colunas
+
+    Console.WriteLine(mat.Length); //quantidade de elementos
+
+    Console.WriteLine(mat.Rank); //quantidades de linhas
+
+    Console.WriteLine(mat.GetLength(0)); //quantidade de linhas
+    Console.WriteLine(mat.GetLength(1)); //quantidade de colunas
+
+    Console.WriteLine("<---------- Exercicio de ler a diagonal principal ---------->");
+    int n = int.Parse(Console.ReadLine());
+
+    int[,] matriz = new int[n, n];
+
+    for (int i = 0; i < n; i++) 
+    {
+        string[] values = Console.ReadLine().Split(' ');
+
+        for (int j = 0; j < n; j++) 
+        {
+            matriz[i,j] = int.Parse(values[j]);    
+        }
+    }
+
+    Console.WriteLine("Main diagonal: ");
+    for (int i = 0; i < n; i++) 
+    {
+        Console.Write(matriz[i,i] + " ");
+    }
+    Console.WriteLine();
+
+    int count = 0;
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < n; j++)
+        {
+            if (matriz[i, j] < 0) 
+            {
+                count++;
+            }   
+        }
+    }
+    Console.WriteLine("Negative numbers: " + count);
 }
