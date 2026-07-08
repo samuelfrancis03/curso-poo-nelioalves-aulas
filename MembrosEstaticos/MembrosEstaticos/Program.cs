@@ -4,7 +4,7 @@ using System.Globalization;
 
 class Program
 {
-    //Variavel estatica tem que ser declarada no escopo da classe.
+    //Variavel estatica tem que ser declarada no escopo da classe
     static double Pi = 3.14;
 
     static void Main(string[] args)
