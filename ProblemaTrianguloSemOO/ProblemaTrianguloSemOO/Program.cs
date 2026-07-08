@@ -14,10 +14,10 @@ y1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 y2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 y3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-double p = (x1 + x2 + x3) / 2;
+double p = (x1 + x2 + x3) / 2.0;
 areaX = Math.Sqrt(p * ((p - x1) * (p - x2) * (p - x3)));
 
-p = (y1 + y2 + y3) / 2;
+p = (y1 + y2 + y3) / 2.0;
 areaY = Math.Sqrt(p * ((p - y1) * (p - y2) * (p - y3)));
 
 Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));

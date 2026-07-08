@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProblemaTrianguloSemOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0d8606b162ed1e5b067a24905b44a22137d3a18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b44459baa0bbd0ed70dc7c09479cb572993053fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProblemaTrianguloSemOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProblemaTrianguloSemOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
