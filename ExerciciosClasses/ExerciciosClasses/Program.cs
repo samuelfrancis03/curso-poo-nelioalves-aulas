@@ -3,7 +3,7 @@ using System.Globalization;
 
 Console.WriteLine("""
     Exercicios de fixação de Classes, Objetos e Atributos
-    -----------------------------------------------------
+    ------------------------------------------------------
 
     """);
 
