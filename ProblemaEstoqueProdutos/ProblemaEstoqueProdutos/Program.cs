@@ -2,8 +2,8 @@
 using ProblemaEstoqueProdutos;
 using System.Globalization;
 
+//Dados de entrada
 Produto produto = new Produto();
-
 Console.WriteLine("Entre com os dados do produto: ");
 Console.Write("Nome: ");
 produto.Nome = Console.ReadLine();
