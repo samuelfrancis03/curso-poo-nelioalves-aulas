@@ -50,7 +50,7 @@ namespace ExercicioBanco
             return "Dados da conta: \n" 
                 + "Conta " + Numero
                 + ", Titular: " + NomeTitular
-                + ", Saldo: $ " + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+                + ", Saldo: $  " + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
 
     }
