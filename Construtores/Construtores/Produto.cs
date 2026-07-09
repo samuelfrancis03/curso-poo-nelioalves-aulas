@@ -26,8 +26,6 @@ namespace ProblemaEstoqueProdutos
         //Construtor
         public Produto(string nome, double preco, int quantidade) : this(nome, preco) //referencia o construtor com nome e preço do anterior
         {
-            Nome = nome;
-            Preco = preco;
             Quantidade = quantidade;
         }
 

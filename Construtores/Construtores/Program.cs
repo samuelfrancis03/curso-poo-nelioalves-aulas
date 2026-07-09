@@ -18,8 +18,8 @@ Produto produto = new Produto(nome, preco);
 //Instanciando construtor padrao
 Produto produto2 = new Produto();
 
-//Instanciando objeto, sem necessida de construtor
-Produto produto3 = new Produto() 
+//Instanciando objeto, sem necessidade de construtor
+Produto produto3 = new Produto 
 { 
     Nome = "Tv", 
     Preco = 500.00, 
