@@ -7,37 +7,88 @@ namespace SistemaRPG
 {
     internal class Personagem
     {
-        public string Nome { get; set; }
-        public string Classe { get; set; }
-        public int Vida { get; set; }
-        public int Ataque { get; set; }
-        public int Defesa { get; set; }
-        public static int TotalPersonagem { get; set; }
+
+        private int _vida;
+        private int _ataque;
+        private int _defesa;
+        public string Nome { get; private set; }
+        public string Classe { get; private set; }
+
+        public static int TotalPersonagem { get; private set; }
+
+        public Personagem()
+        {
+            Nome = "Desconhecido";
+            Classe = "Aventureiro";
+            Vida = 100;
+            Ataque = 15;
+            Defesa = 10;
+            TotalPersonagem++;
+        }
+
+        public Personagem(string nome, string classe) : this()
+        {
+            Nome = nome;
+            Classe = classe;
+        }
+
+        public Personagem(string nome, string classe, int vida, int ataque, int defesa) : this(nome, classe)
+        {
+            Vida = vida;
+            Ataque = ataque;
+            Defesa = defesa;
+
+        }
+
+        public int Vida 
+        {
+            get { return _vida; }
+            private set 
+            {
+                if (value >= 0 && value <= 100) 
+                {
+                    _vida = value;
+                }
+            }
+        }
+
+        public int Ataque
+        {
+            get { return _ataque; }
+            private set
+            {
+                if (value > 0 && value <= 100)
+                {
+                    _ataque = value;
+                }
+            }
+        }
+
+        public int Defesa
+        {
+            get { return _defesa; }
+            private set
+            {
+                if (value > 0 && value <= 100)
+                {
+                    _defesa = value;
+                }
+            }
+        }
+
         public void ReceberDano(int dano) 
         {
-            int totalVida = Vida - dano;
-
-            if (totalVida >= 0) 
-            {
-                Vida = totalVida;
-            }
-            
+            Vida -= dano;
         }
 
         public void Curar(int cura) 
         {
-           int totalVida = Vida + cura;
-
-            if (totalVida <= 100) 
-            {
-                Vida = totalVida;
-            }
-
+            Vida += cura;
         }
 
         public bool EstaVivo() 
         {
-            if (Vida > 0) 
+            if (_vida > 0) 
             {
                 return true;
                 //Vivo
@@ -52,11 +103,6 @@ namespace SistemaRPG
         public int CalcularPoder() 
         {
             return Ataque + Defesa + Vida;
-        }
-
-        public static void AdicionarPersonagem() 
-        {
-            TotalPersonagem++;
         }
 
         public override string ToString()
