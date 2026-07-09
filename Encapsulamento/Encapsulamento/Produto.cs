@@ -41,8 +41,20 @@ namespace Encapsulamento
             _quantidade = quantidade;
         }
 
-        //Metodos GET e SET manual
+        //Properties manual
+        public int Quantidade
+        {
+            get { return _quantidade; }
+            set
+            {
+                if (value != null && value > 0)
+                {
+                    _quantidade = value;
+                }
+            }
+        }
 
+        //Metodos GET e SET manual
         public string GetNome() 
         {
             return _nome;
@@ -55,20 +67,6 @@ namespace Encapsulamento
                 _nome = nome; 
             }
             
-        }
-
-
-        //Properties manual
-        public int Quantidade
-        {
-            get { return _quantidade; }
-            set
-            {
-                if (value != null && value > 0)
-                {
-                    _quantidade = value;
-                }
-            }
         }
 
         public double ValorTotalEmEstoque()
