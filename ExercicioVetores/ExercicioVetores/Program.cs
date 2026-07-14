@@ -12,7 +12,7 @@ Console.WriteLine();
 for (int i = 0; i < n; i++) 
 {
     Console.WriteLine("Alguel #" + cont++ + ":");
-    Console.Write("Nome: ");
+    Console.Write("Nome Estudante: ");
     string nome = Console.ReadLine();
     Console.Write("Email: ");
     string email = Console.ReadLine();
