@@ -1,7 +1,7 @@
 ﻿
 using ExercicioVetores;
 
-Estudante[] quartosAlugado =  new Estudante[10];
+Estudante[] quartosAlugado =  new Estudante[10]; //instanciando vetor
 var cont = 1;
 
 Console.Write("Quantos quartos serão alugados: ");
