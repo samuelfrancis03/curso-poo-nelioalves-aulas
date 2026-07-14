@@ -7,8 +7,8 @@ Console.WriteLine(s1);
 Console.WriteLine(s2);
 
 
-int sp1 = Calculator.SuParams(2, 3);
-int sp2 = Calculator.SuParams(2, 3, 4);
+int sp1 = Calculator.SubParams(2, 3);
+int sp2 = Calculator.SubParams(2, 3, 4);
 Console.WriteLine(sp1);
 Console.WriteLine(sp2);
 

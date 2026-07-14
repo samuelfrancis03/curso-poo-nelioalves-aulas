@@ -37,7 +37,7 @@ namespace ModificadorDeParametros
 
         //usando o modificador de parametros 'params'
         //Descarta a necessidade de instanciar o vetor na main, para passar os valores
-        public static int SuParams(params int[] numbers)
+        public static int SubParams(params int[] numbers)
         {
             int sum = 0;
             for (int i = 0; i < numbers.Length; i++)
