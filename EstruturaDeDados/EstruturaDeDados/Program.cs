@@ -203,7 +203,7 @@ static void AulaListas()
     }
 
     //remover elementos de acordo com uma faixa
-    list.RemoveRange(2, 2); // a partir da posição 2, remova 2 posições
+    list.RemoveRange(2, 2); // a partir da posição 2, remova 2 posições.
     foreach (string obj in list)
     {
         Console.WriteLine(obj);
