@@ -1,4 +1,8 @@
-﻿Console.Write("Digite quantidade de linhas: ");
+﻿
+
+
+
+Console.Write("Digite quantidade de linhas: ");
 int l = int.Parse(Console.ReadLine());
 Console.Write("Digite quantiade de colunas: ");
 int c = int.Parse(Console.ReadLine());
