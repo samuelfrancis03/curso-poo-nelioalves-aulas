@@ -1,7 +1,8 @@
 ﻿using ExercicioLista;
 using System.Globalization;
 
-List<Employee> listEmployees = new List<Employee>();
+List<Employee> listEmployees = new List<Employee>(); //instanciando Lista
+
 
 Console.Write("How many employees will be registered?");
 int qtEmployees  = int.Parse(Console.ReadLine());
