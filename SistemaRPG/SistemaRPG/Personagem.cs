@@ -78,12 +78,30 @@ namespace SistemaRPG
 
         public void ReceberDano(int dano) 
         {
-            Vida -= dano;
+            if (dano >= Vida)
+            {
+                Vida = 0;
+            }
+            else 
+            {
+                Vida -= dano;
+            }
+            
         }
 
         public void Curar(int cura) 
         {
-            Vida += cura;
+            var vidaTotal = Vida + cura;
+
+            if (vidaTotal > 100)
+            {
+                Vida = 100;
+            }
+            else 
+            {
+                Vida = vidaTotal;
+            }
+            
         }
 
         public bool EstaVivo() 
