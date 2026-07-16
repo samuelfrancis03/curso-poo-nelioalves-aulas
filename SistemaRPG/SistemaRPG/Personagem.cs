@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Security.Principal;
 using System.Text;
+using System.Globalization;
 
 namespace SistemaRPG
 {
@@ -13,6 +14,7 @@ namespace SistemaRPG
         private int _defesa;
         public string Nome { get; private set; }
         public string Classe { get; private set; }
+        public DateTime DataCriacao { get; private set; }
 
         public static int TotalPersonagem { get; private set; }
 
@@ -24,6 +26,7 @@ namespace SistemaRPG
             Ataque = 15;
             Defesa = 10;
             TotalPersonagem++;
+            DataCriacao = DateTime.Now;
         }
 
         public Personagem(string nome, string classe) : this()
@@ -106,7 +109,7 @@ namespace SistemaRPG
 
         public bool EstaVivo() 
         {
-            if (_vida > 0) 
+            if (Vida > 0) 
             {
                 return true;
                 //Vivo
@@ -123,6 +126,17 @@ namespace SistemaRPG
             return Ataque + Defesa + Vida;
         }
 
+        public string TempoDeVida() 
+        {
+            TimeSpan tempoDeVida = DateTime.Now - DataCriacao;
+            return $"{tempoDeVida.Minutes:D2}:{tempoDeVida.Seconds:D2}";  
+        }
+
+        static public void DecrementarTotalPersonagem() 
+        {
+            TotalPersonagem--;
+        }
+
         public override string ToString()
         {
             //Convertendo o resultado bool, para em forma de string com if ternário
@@ -134,7 +148,9 @@ namespace SistemaRPG
                 + "\nAtaque: " + Ataque
                 + "\nDefesa: " + Defesa
                 + "\nPoder Total: " + CalcularPoder()
-                + "\nStatus: " + status;
+                + "\nStatus: " + status
+                + "\nCriado em: " + DataCriacao.ToString("dd/MM/yyyy HH:mm")
+                + "\nTempo de vida: " + TempoDeVida();
         }
 
 

@@ -67,7 +67,7 @@ void CriarPersonagem()
 {
     char opc = 's';
 
-    while (opc != 'n')
+    do
     {
         Console.Clear();
 
@@ -76,22 +76,35 @@ void CriarPersonagem()
 
         Console.Write("Nome do personagem: ");
         var nome = Console.ReadLine();
-        Console.Write("Classe: ");
-        var classe = Console.ReadLine();
-        Console.Write("Vida inicial: ");
-        var vida = int.Parse(Console.ReadLine());
-        Console.Write("Ataque: ");
-        var ataque = int.Parse(Console.ReadLine());
-        Console.Write("Defesa: ");
-        var defesa = int.Parse(Console.ReadLine());
 
-        Personagem personagem = new Personagem(nome, classe, vida, ataque, defesa);
-        listaDePersonagens.Add(personagem);
+        if (PersonagemExiste(nome) == false)
+        {
+            Console.Write("Classe: ");
+            var classe = Console.ReadLine();
+            Console.Write("Vida inicial: ");
+            var vida = int.Parse(Console.ReadLine());
+            Console.Write("Ataque: ");
+            var ataque = int.Parse(Console.ReadLine());
+            Console.Write("Defesa: ");
+            var defesa = int.Parse(Console.ReadLine());
 
-        Console.WriteLine();
-        Console.Write("Deseja criar outro personagem? (s/n): ");
-        opc = char.Parse(Console.ReadLine());
-    }
+            Personagem personagem = new Personagem(nome, classe, vida, ataque, defesa);
+            listaDePersonagens.Add(personagem);
+
+            Console.WriteLine();
+            Console.Write("Deseja criar outro personagem? (s/n): ");
+            opc = char.Parse(Console.ReadLine());
+        }
+        else
+        {
+            Console.WriteLine();
+            Console.WriteLine("Já existe um personagem criado com esse nome");
+            Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
+            Console.ReadLine();
+            break;
+        }
+
+    } while (opc == 's');
 
     MenuPrincipal();
 
@@ -107,7 +120,7 @@ void ListarPersonagem()
 
     for (int i = 0; i < listaDePersonagens.Count; i++)
     {
-        Console.WriteLine($"{i} - {listaDePersonagens[i].Nome} ({listaDePersonagens[i].Classe})");
+        Console.WriteLine($"{i + 1} - {listaDePersonagens[i].Nome} ({listaDePersonagens[i].Classe})");
     }
 
     Console.WriteLine();
@@ -116,22 +129,30 @@ void ListarPersonagem()
 
     if (opc == 's')
     {
-        Console.Write("Digite o codigo do personagem: ");
-        int n = int.Parse(Console.ReadLine());
+        Console.Write("Digite o nome do personagem: ");
+        string nome = Console.ReadLine();
 
-        Console.WriteLine();
-        Console.WriteLine(listaDePersonagens[n]);
-        Console.WriteLine();
-
-        Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
-        Console.ReadLine();
+        if (PersonagemExiste(nome) != false)
+        {
+            Console.Clear();
+            Console.WriteLine("====== INFORMAÇÕES ======"); 
+            Console.WriteLine();
+            Console.WriteLine(listaDePersonagens.Find(x => x.Nome.ToLower() == nome.ToLower()));
+            Console.WriteLine();
+            Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
+            Console.ReadLine();
+        }
+        else 
+        {
+            Console.WriteLine();
+            Console.WriteLine("Personagem não encontrado");
+            Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
+            Console.ReadLine();
+        }
 
     }
 
-
-
     MenuPrincipal();
-
 }
 
 void BuscarPersonagem()
@@ -141,31 +162,23 @@ void BuscarPersonagem()
     Console.WriteLine("====== Busca de Personagem ======");
     Console.WriteLine();
 
-    Console.Write("Digite o nome: ");
+    Console.Write("Digite o nome do personagem: ");
     string nome = Console.ReadLine();
 
-    bool encontrou = false;
-
-    foreach (Personagem p in listaDePersonagens)
+    if (PersonagemExiste(nome) != false)
     {
-        if (p.Nome == nome)
-        {
-            Console.WriteLine();
-            Console.WriteLine(p);
-            encontrou = true;
-
-            Console.WriteLine();
-            Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
-            Console.ReadLine();
-            break;
-        }
+        Console.Clear();
+        Console.WriteLine("====== PERSONAGEM ENCONTRADO ======");
+        Console.WriteLine();
+        Console.WriteLine(listaDePersonagens.Find(x => x.Nome.ToLower() == nome.ToLower()));
+        Console.WriteLine();
+        Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
+        Console.ReadLine();
     }
-
-    if (encontrou == false)
+    else
     {
         Console.WriteLine();
         Console.WriteLine("Personagem não encontrado");
-        Console.WriteLine();
         Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
         Console.ReadLine();
     }
@@ -183,33 +196,33 @@ void RemoverPersonagem()
 
     for (int i = 0; i < listaDePersonagens.Count; i++)
     {
-        Console.WriteLine($"{i} - {listaDePersonagens[i].Nome} ({listaDePersonagens[i].Classe})");
+        Console.WriteLine($"{i + 1} - {listaDePersonagens[i].Nome} ({listaDePersonagens[i].Classe})");
     }
 
     Console.Write("Digite o nome do personagem a ser removido: ");
     string nome = Console.ReadLine();
 
-    bool encontrou = false;
-    foreach (Personagem p in listaDePersonagens)
+    if (PersonagemExiste(nome) != false)
     {
-        if (p.Nome == nome)
+        foreach (Personagem p in listaDePersonagens) 
         {
-            encontrou = true;
-            listaDePersonagens.Remove(p);
-            Console.WriteLine($"Personagem {p.Nome} removido!");
+            if (p.Nome.ToLower() == nome.ToLower()) 
+            {
+                listaDePersonagens.Remove(p);
+                Personagem.DecrementarTotalPersonagem();
 
-            Console.WriteLine();
-            Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
-            Console.ReadLine();
-            break;
+                Console.WriteLine();
+                Console.WriteLine($"Personagem {p.Nome} removido com sucesso!");
+                Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
+                Console.ReadLine();
+                break;
+            }
         }
     }
-
-    if (encontrou == false)
+    else
     {
         Console.WriteLine();
         Console.WriteLine("Personagem não encontrado");
-        Console.WriteLine();
         Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
         Console.ReadLine();
     }
@@ -237,7 +250,7 @@ void SimularBatalha()
     bool encontrou = false;
     foreach (Personagem p in listaDePersonagens)
     {
-        if (p.Nome == nome)
+        if (p.Nome.ToLower() == nome.ToLower())
         {
             encontrou = true;
 
@@ -297,4 +310,20 @@ void QuantidadePersonagens()
     MenuPrincipal();
 }
 
+
+//Metodo para verificar se o personagem existe
+bool PersonagemExiste(string nome) 
+{
+    bool encontrou = false;
+
+    foreach(Personagem p in listaDePersonagens)
+    {
+        if (p.Nome.ToLower() == nome.ToLower())
+        {
+            encontrou = true;
+        }
+    }
+
+    return encontrou;
+}
 
