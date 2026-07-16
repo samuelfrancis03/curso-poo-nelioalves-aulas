@@ -203,7 +203,7 @@ Console.WriteLine("TotalMilliseconds: " + t.TotalMilliseconds);
 
 
 //DateTImeKind 
-//Tipo enumerado especila que define três valores possiveis para a localidade da data
+//Tipo enumerado especila que define três valores possiveis para a localidade da data.
 DateTime dk1 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Local);
 DateTime dk2 = new DateTime(2000, 8, 15, 13, 5, 58, DateTimeKind.Utc);
 DateTime dk3 = new DateTime(2000, 8, 15, 13, 5, 58);
