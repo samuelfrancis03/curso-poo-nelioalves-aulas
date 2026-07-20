@@ -32,7 +32,7 @@ namespace ComposicaoStringBuilderExercicio.Entities
             Comments.Remove(comment);
         }
 
-        //string builder
+        //string builder -> serve para faer a montagem de um strring, para objetos com muitas informações deixando mais performatico
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
