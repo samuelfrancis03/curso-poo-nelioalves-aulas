@@ -22,14 +22,11 @@ namespace Heranca.Entities
         }
 
         //sobrescrita
-        public override void Withdraw(double amount)
+        public override void Withdraw(double amount) //Metodo está selado na superclasse.
         {
             Balance -= amount;
         }
 
-        public sealed override void Withdraw(double amount) //metodo selado não permite ser sobrescrito em outra classe
-        {
-            Balance -= amount;
-        }
+
     }
 }

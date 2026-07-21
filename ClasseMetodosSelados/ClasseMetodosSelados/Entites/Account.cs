@@ -19,7 +19,7 @@ namespace Heranca.Entities
             Balance = balance;
         }
 
-        public virtual void Withdraw(double amount) //Virtual - permite sobrescrita nas subclasses
+        public sealed void Withdraw(double amount) //Sealed -> metodo selado não permite ser sobrescrito em outra classe
         {
             Balance -= amount + 5.0;
         }
