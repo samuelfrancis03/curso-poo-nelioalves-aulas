@@ -25,6 +25,7 @@ namespace Heranca.Entities
             }
         }
 
+        //Metodo sobrescrito(override) da superclasse
         public override void Withdraw(double amount)
         {
             base.Withdraw(amount); //base - reaproveita a operação do metodo da superclasse

@@ -21,10 +21,11 @@ namespace Heranca.Entities
             Balance += Balance * InterestRate;
         }
 
-        //sobrescrita
+        //Metodo sobrescrito(override) da superclasse
         public override void Withdraw(double amount)
         {
-            Balance -= amount;
+            base.Withdraw(amount); //Base - reaproveita a mesma operação do metodo definido na superclasse
+            Balance -= 2.0;
         }
     }
 }
