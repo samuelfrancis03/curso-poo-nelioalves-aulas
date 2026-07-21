@@ -10,8 +10,7 @@ namespace ClassesMetodosAbstratos.Entities
     {
         public Color Color { get; set; }
 
-        /*public Shape() { } - O construstor vazio na classe abstrata tira a obrigatoriedade
-         * de implementar o construtor com o argumentos*/
+        //public Shape() { } //O construstor vazio na classe abstrata tira a obrigatoriedade * de implementar o construtor com o argumentos
 
         public Shape(Color color)
         {

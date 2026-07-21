@@ -16,6 +16,7 @@ namespace ClassesMetodosAbstratos.Entities
             Height = height;
         }
 
+        //Pela a classe Retangle herdar Shape, é obrigatorio implementar o metodo abstratos da superclasse
         public override double Area()
         {
             return Width * Height;
