@@ -12,7 +12,7 @@ for (int i = 1; i <= n; i++)
 {
     Console.WriteLine($"Employee #{i} data:");
     Console.Write("Outsourced (y/n)? ");
-    char ch= char.Parse(Console.ReadLine());
+    char ch = char.Parse(Console.ReadLine());
     Console.Write("Name: ");
     string name = Console.ReadLine();
     Console.Write("Hours: ");
