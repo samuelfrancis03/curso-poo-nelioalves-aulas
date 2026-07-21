@@ -48,3 +48,5 @@ foreach (Product prod in list)
 {
     Console.WriteLine(prod.PriceTag());
 }
+
+//Exercicio de fixação Herança e Polimorfismo
