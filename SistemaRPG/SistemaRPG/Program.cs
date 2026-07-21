@@ -1,4 +1,5 @@
-﻿using SistemaRPG;
+﻿using SistemaRPG.Entities;
+using SistemaRPG.Entities.Enums;
 
 
 List<Personagem> listaDePersonagens = new List<Personagem>();
@@ -79,16 +80,56 @@ void CriarPersonagem()
 
         if (PersonagemExiste(nome) == false)
         {
-            Console.Write("Classe: ");
-            var classe = Console.ReadLine();
+            Console.WriteLine("""
+                1 - Guerreiro
+                2 - Mago
+                3 - Arqueiro
+                4 - Ladino
+                5 - Paladino
+                """);
+            Console.Write("Escolha a classe do personagem: ");
+            ClassePersonagem classe = Enum.Parse<ClassePersonagem>(Console.ReadLine());
             Console.Write("Vida inicial: ");
             var vida = int.Parse(Console.ReadLine());
             Console.Write("Ataque: ");
             var ataque = int.Parse(Console.ReadLine());
             Console.Write("Defesa: ");
             var defesa = int.Parse(Console.ReadLine());
+            Console.WriteLine("""
+                1 - Espada de Ferro
+                2 - Arco Longo
+                3 - Escudo de Carvalho
+                4 - Cajado Arcano
+                5 - Capa de Merlin
+                """);
+            Console.Write("Escolha o equipamento do personagem: ");
+            int num = int.Parse(Console.ReadLine());
+            Equipamento equipamento;
+            switch (num)
+            {
+                case 1:
+                    equipamento = new Equipamento("Espada de Ferro", 15, 3);
+                    break;
+                case 2:
+                    equipamento = new Equipamento("Arco Longo", 20, 1);
+                    break;
+                case 3:
+                    equipamento = new Equipamento("Escudo de Carvalho", 2, 28);
+                    break;
+                case 4:
+                    equipamento = new Equipamento("Cajado Arcano", 25, 7);
+                    break;
+                case 5:
+                    equipamento = new Equipamento("Capa de Merlin", 23, 17);
+                    break;
+                default:
+                    Console.WriteLine("Equipamento não encontrado! Use os punhos");
+                    equipamento = new Equipamento();
+                    break;
+            }
 
-            Personagem personagem = new Personagem(nome, classe, vida, ataque, defesa);
+            Personagem personagem = new Personagem(nome, classe, vida, ataque, defesa, equipamento);
+            personagem.Equipar(equipamento);
             listaDePersonagens.Add(personagem);
 
             Console.WriteLine();
@@ -135,14 +176,14 @@ void ListarPersonagem()
         if (PersonagemExiste(nome) != false)
         {
             Console.Clear();
-            Console.WriteLine("====== INFORMAÇÕES ======"); 
+            Console.WriteLine("====== INFORMAÇÕES ======");
             Console.WriteLine();
             Console.WriteLine(listaDePersonagens.Find(x => x.Nome.ToLower() == nome.ToLower()));
             Console.WriteLine();
             Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
             Console.ReadLine();
         }
-        else 
+        else
         {
             Console.WriteLine();
             Console.WriteLine("Personagem não encontrado");
@@ -204,9 +245,9 @@ void RemoverPersonagem()
 
     if (PersonagemExiste(nome) != false)
     {
-        foreach (Personagem p in listaDePersonagens) 
+        foreach (Personagem p in listaDePersonagens)
         {
-            if (p.Nome.ToLower() == nome.ToLower()) 
+            if (p.Nome.ToLower() == nome.ToLower())
             {
                 listaDePersonagens.Remove(p);
                 Personagem.DecrementarTotalPersonagem();
@@ -312,11 +353,11 @@ void QuantidadePersonagens()
 
 
 //Metodo para verificar se o personagem existe
-bool PersonagemExiste(string nome) 
+bool PersonagemExiste(string nome)
 {
     bool encontrou = false;
 
-    foreach(Personagem p in listaDePersonagens)
+    foreach (Personagem p in listaDePersonagens)
     {
         if (p.Nome.ToLower() == nome.ToLower())
         {
@@ -326,4 +367,5 @@ bool PersonagemExiste(string nome)
 
     return encontrou;
 }
+
 
