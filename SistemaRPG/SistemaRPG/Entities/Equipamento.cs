@@ -27,7 +27,7 @@ namespace SistemaRPG.Entities
 
         public override string ToString()
         {
-            return Nome 
+            return "Nome: " + Nome 
                 + "\nAtaque: " + Ataque
                 + "\nDefesa: " + Defesa;
         }

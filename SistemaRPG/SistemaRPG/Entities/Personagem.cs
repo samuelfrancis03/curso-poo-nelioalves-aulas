@@ -7,52 +7,35 @@ using SistemaRPG.Entities.Enums;
 
 namespace SistemaRPG.Entities
 {
-    internal class Personagem
+    abstract class Personagem
     {
 
         private int _vida;
         private int _ataque;
         private int _defesa;
-        public string Nome { get; private set; }
-        public DateTime DataCriacao { get; private set; }
-        public ClassePersonagem Classe { get; private set; }
-        public Equipamento Equipamento { get; set; }
-        public static int TotalPersonagem { get; private set; }
+        public string Nome { get; protected set; }
+        public DateTime DataCriacao { get; protected set; }
+        public ClassePersonagem Classe { get; protected set; }
+        public Equipamento Equipamento { get; protected set; }
+        public static int TotalPersonagem { get; protected set; }
+        public abstract string NomeGolpeEspecial { get; }
+        public abstract string DescricaoClasse { get; }
+        public abstract string FrasePersonagem { get; }
 
         //Constutor padrão
-        public Personagem()
-        {
-            Nome = "Desconhecido";
-            Classe = ClassePersonagem.Aventureiro;
-            Vida = 100;
-            Ataque = 15;
-            Defesa = 10;
-            TotalPersonagem++;
-            DataCriacao = DateTime.Now;
-            Equipamento = new Equipamento();
-        }
-
-        //construtor com 2 argumentos
-        public Personagem(string nome, ClassePersonagem classe) : this()
+        public Personagem(string nome, Equipamento equipamento)
         {
             Nome = nome;
-            Classe = classe;
-        }
-
-        //Construtor
-        public Personagem(string nome, ClassePersonagem classe, int vida, int ataque, int defesa, Equipamento equipamento) : this(nome, classe)
-        {
-            Vida = vida;
-            Ataque = ataque;
-            Defesa = defesa;
+            Vida = 100;
+            TotalPersonagem++;
+            DataCriacao = DateTime.Now;
             Equipamento = equipamento;
-
         }
 
         public int Vida 
         {
             get { return _vida; }
-            private set 
+            protected set 
             {
                 if (value >= 0 && value <= 100) 
                 {
@@ -64,7 +47,7 @@ namespace SistemaRPG.Entities
         public int Ataque
         {
             get { return _ataque; }
-            private set
+            protected set
             {
                 if (value > 0 && value <= 100)
                 {
@@ -76,7 +59,7 @@ namespace SistemaRPG.Entities
         public int Defesa
         {
             get { return _defesa; }
-            private set
+            protected set
             {
                 if (value > 0 && value <= 100)
                 {
@@ -88,8 +71,9 @@ namespace SistemaRPG.Entities
         //Metodo para receber dano, baseado na defesa aplicada
         public void ReceberDano(int dano) 
         {
-            int defesa = (int) (Defesa * 0.01) * dano;
-            int danoTotal = defesa - dano;
+            
+            double reducaoDefesa = (Defesa / 100.0) * dano;
+            int danoTotal = dano - (int)reducaoDefesa;
 
             if (danoTotal >= Vida)
             {
@@ -179,6 +163,9 @@ namespace SistemaRPG.Entities
             }
         }
 
+        //Metodo abstrato para que cada classe
+        public abstract int GolpeEspecial();
+
         //To string para formatar a apresentação do personagem
         public override string ToString()
         {
@@ -193,6 +180,9 @@ namespace SistemaRPG.Entities
                 + "\nStatus: " + ObterStatus()
                 + "\n\n|-- Equipamento"
                 + "\n" + Equipamento
+                + "\n\n|-- Golpe Especial"
+                + "\nNome: " + NomeGolpeEspecial
+                + "\nDano: " + GolpeEspecial()
                 + "\n\n|-- Informações Gerais"
                 + "\nCriado em: " + DataCriacao.ToString("dd/MM/yyyy HH:mm")
                 + "\nTempo de vida: " + TempoDeVida();

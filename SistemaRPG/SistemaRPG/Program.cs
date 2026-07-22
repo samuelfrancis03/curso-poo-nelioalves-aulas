@@ -67,7 +67,6 @@ void MenuPrincipal()
 void CriarPersonagem()
 {
     char opc = 's';
-
     do
     {
         Console.Clear();
@@ -80,58 +79,32 @@ void CriarPersonagem()
 
         if (PersonagemExiste(nome) == false)
         {
+            Console.WriteLine("\n|-- Classes");
             Console.WriteLine("""
-                1 - Guerreiro
-                2 - Mago
-                3 - Arqueiro
-                4 - Ladino
-                5 - Paladino
+                1 - Guerreiro (VIDA: 100, ATQ: 20, DEF: 15)
+                2 - Mago (VIDA: 100, ATQ: 30, DEF: 5)
+                3 - Arqueiro (VIDA: 100, ATQ: 25, DEF: 10)
+                4 - Ladino (VIDA: 100, ATQ: 40, DEF: 3)
+                5 - Paladino (VIDA: 100, ATQ: 10, DEF: 30)
                 """);
-            Console.Write("Escolha a classe do personagem: ");
+            Console.Write("\nEscolha a classe do personagem: ");
             ClassePersonagem classe = Enum.Parse<ClassePersonagem>(Console.ReadLine());
-            Console.Write("Vida inicial: ");
-            var vida = int.Parse(Console.ReadLine());
-            Console.Write("Ataque: ");
-            var ataque = int.Parse(Console.ReadLine());
-            Console.Write("Defesa: ");
-            var defesa = int.Parse(Console.ReadLine());
+
+            Console.WriteLine();
+
+            Console.WriteLine("|-- Equipamentos: ");
             Console.WriteLine("""
-                1 - Espada de Ferro
-                2 - Arco Longo
-                3 - Escudo de Carvalho
-                4 - Cajado Arcano
-                5 - Capa de Merlin
+                1 - Espada de Ferro (ATQ: +15, DEF: +3)
+                2 - Arco Longo (ATQ: +20, DEF: +1)
+                3 - Escudo de Carvalho (ATQ: +2, DEF: +28)
+                4 - Cajado Arcano (ATQ: +25, DEF: +7)
+                5 - Capa de Merlin (ATQ: +23, DEF: +17)
                 """);
-            Console.Write("Escolha o equipamento do personagem: ");
+            Console.Write("\nEscolha o equipamento do personagem: ");
             int num = int.Parse(Console.ReadLine());
-            Equipamento equipamento;
-            switch (num)
-            {
-                case 1:
-                    equipamento = new Equipamento("Espada de Ferro", 15, 3);
-                    break;
-                case 2:
-                    equipamento = new Equipamento("Arco Longo", 20, 1);
-                    break;
-                case 3:
-                    equipamento = new Equipamento("Escudo de Carvalho", 2, 28);
-                    break;
-                case 4:
-                    equipamento = new Equipamento("Cajado Arcano", 25, 7);
-                    break;
-                case 5:
-                    equipamento = new Equipamento("Capa de Merlin", 23, 17);
-                    break;
-                default:
-                    Console.WriteLine("Equipamento não encontrado! Use os punhos");
-                    equipamento = new Equipamento();
-                    break;
-            }
 
-            Personagem personagem = new Personagem(nome, classe, vida, ataque, defesa, equipamento);
-            personagem.Equipar(equipamento);
-            listaDePersonagens.Add(personagem);
-
+            CriacaoPersonagem(classe, nome, SelecionarEquipamento(num));
+            
             Console.WriteLine();
             Console.Write("Deseja criar outro personagem? (s/n): ");
             opc = char.Parse(Console.ReadLine());
@@ -170,27 +143,7 @@ void ListarPersonagem()
 
     if (opc == 's')
     {
-        Console.Write("Digite o nome do personagem: ");
-        string nome = Console.ReadLine();
-
-        if (PersonagemExiste(nome) != false)
-        {
-            Console.Clear();
-            Console.WriteLine("====== INFORMAÇÕES ======");
-            Console.WriteLine();
-            Console.WriteLine(listaDePersonagens.Find(x => x.Nome.ToLower() == nome.ToLower()));
-            Console.WriteLine();
-            Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
-            Console.ReadLine();
-        }
-        else
-        {
-            Console.WriteLine();
-            Console.WriteLine("Personagem não encontrado");
-            Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
-            Console.ReadLine();
-        }
-
+        BuscarPersonagem();
     }
 
     MenuPrincipal();
@@ -282,55 +235,37 @@ void SimularBatalha()
 
     for (int i = 0; i < listaDePersonagens.Count; i++)
     {
-        Console.WriteLine($"{i} - {listaDePersonagens[i].Nome} ({listaDePersonagens[i].Classe})");
+        Console.WriteLine($"{i + 1} - {listaDePersonagens[i].Nome} ({listaDePersonagens[i].Classe})");
     }
 
     Console.Write("Digite o nome do personagem para batalhar: ");
     string nome = Console.ReadLine();
 
-    bool encontrou = false;
-    foreach (Personagem p in listaDePersonagens)
+    if (PersonagemExiste(nome) != false)
     {
-        if (p.Nome.ToLower() == nome.ToLower())
+        foreach (Personagem p in listaDePersonagens)
         {
-            encontrou = true;
+            if (p.Nome.ToLower() == nome.ToLower())
+            {
+                
+                Console.WriteLine("Nome: " + p.Nome + "\nVida: " + p.Vida);
+                p.ReceberDano(50);
+                Console.WriteLine("Nome: " + p.Nome + "\nVida: " + p.Vida);
+                p.Curar(10);
+                Console.WriteLine("Nome: " + p.Nome + "\nVida: " + p.Vida);
+                Console.ReadLine();
 
-            var entrada = 0;
-            Console.WriteLine("Hora de batalhar! ");
-            Console.Write("Quanto de dano o personagem recebeu? ");
-            entrada = int.Parse(Console.ReadLine());
-            p.ReceberDano(entrada);
 
-            Console.WriteLine();
-            Console.WriteLine(p);
-
-            Console.WriteLine();
-            Console.Write("Quanto deseja curar? ");
-            entrada = int.Parse(Console.ReadLine());
-            p.Curar(entrada);
-
-            Console.WriteLine("Persogem depois da batalha:  ");
-            Console.WriteLine(p);
-
-            Console.WriteLine();
-            Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
-            Console.ReadLine();
-
-            break;
+            }
         }
     }
-
-    if (encontrou == false)
+    else
     {
         Console.WriteLine();
         Console.WriteLine("Personagem não encontrado");
-        Console.WriteLine();
         Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
         Console.ReadLine();
     }
-
-    MenuPrincipal();
-
 
 }
 
@@ -368,4 +303,70 @@ bool PersonagemExiste(string nome)
     return encontrou;
 }
 
+//Metodo para selecionar o equipamento
+Equipamento SelecionarEquipamento(int num) 
+{
+    Equipamento equipamento;
 
+    switch (num)
+    {
+        case 1:
+            return equipamento = new Equipamento("Espada de Ferro", 15, 3);
+            break;
+        case 2:
+            return equipamento = new Equipamento("Arco Longo", 20, 1);
+            break;
+        case 3:
+            return equipamento = new Equipamento("Escudo de Carvalho", 2, 28);
+            break;
+        case 4:
+            return equipamento = new Equipamento("Cajado Arcano", 25, 7);
+            break;
+        case 5:
+            return equipamento = new Equipamento("Capa de Merlin", 23, 17);
+            break;
+        default:
+            Console.WriteLine("Equipamento não encontrado! Use os punhos");
+            return equipamento = new Equipamento();
+            break;
+    }
+}
+//Metodo para criar personagem
+void CriacaoPersonagem(ClassePersonagem classe, string nome, Equipamento equipamento) 
+{
+    Personagem personagem;
+
+    switch ((int)classe)
+    {
+        case 1:
+            personagem = new Guerreiro(nome, equipamento);
+            personagem.Equipar(equipamento);
+            listaDePersonagens.Add(personagem);
+            break;
+        case 2:
+            personagem = new Mago(nome, equipamento);
+            personagem.Equipar(equipamento);
+            listaDePersonagens.Add(personagem);
+            break;
+        case 3:
+            personagem = new Arqueiro(nome, equipamento);
+            personagem.Equipar(equipamento);
+            listaDePersonagens.Add(personagem);
+            break;
+        case 4:
+            personagem = new Ladino(nome, equipamento);
+            personagem.Equipar(equipamento);
+            listaDePersonagens.Add(personagem);
+            break;
+        case 5:
+            personagem = new Paladino(nome, equipamento);
+            personagem.Equipar(equipamento);
+            listaDePersonagens.Add(personagem);
+            break;
+        default:
+            personagem = new Aventureiro(nome, equipamento);
+            personagem.Equipar(equipamento);
+            listaDePersonagens.Add(personagem);
+            break;
+    }
+}
