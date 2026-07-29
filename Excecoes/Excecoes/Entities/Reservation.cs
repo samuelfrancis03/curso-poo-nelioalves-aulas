@@ -37,7 +37,7 @@ namespace Excecoes.Entities
 
             if (checkIn < now || checkOut < now)
             {
-                throw new DomainException("Reservation dates for upadte must be future dates");
+                throw new DomainException("Reservation dates for upadte must be future dates"); //Throw ->  Lançar exceção
             }
 
             if (checkOut <= checkIn)
