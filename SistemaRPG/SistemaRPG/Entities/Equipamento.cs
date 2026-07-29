@@ -28,8 +28,8 @@ namespace SistemaRPG.Entities
         public override string ToString()
         {
             return "Nome: " + Nome 
-                + "\nAtaque: " + Ataque
-                + "\nDefesa: " + Defesa;
+                + "\nAtaque: +" + Ataque
+                + "\nDefesa: +" + Defesa;
         }
     }
 }
