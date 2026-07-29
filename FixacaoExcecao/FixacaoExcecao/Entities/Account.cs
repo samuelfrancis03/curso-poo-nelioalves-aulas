@@ -29,6 +29,7 @@ namespace FixacaoExcecao.Entities
             Balance += amount;
         }
 
+        //Metodo de saque, com o lancamento de Exceções
         public void Withdraw(double amount) 
         {
             if (WithdrawLimit < amount)
