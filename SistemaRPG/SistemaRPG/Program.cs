@@ -1,10 +1,18 @@
 ﻿using SistemaRPG.Entities;
 using SistemaRPG.Entities.Enums;
+using SistemaRPG.Entities.Exceptions;
 
 
 List<Personagem> listaDePersonagens = new List<Personagem>();
 
-MenuPrincipal();
+bool executando = true;
+
+while (executando)
+{
+    MenuPrincipal();
+}
+;
+
 
 void MenuPrincipal()
 {
@@ -54,26 +62,24 @@ void MenuPrincipal()
                 break;
 
             case 0:
+                executando = false;
                 break;
 
             default:
                 Console.WriteLine("Opção invalida!");
                 Console.Clear();
-                MenuPrincipal();
                 break;
         }
     }
-    catch (FormatException e) 
+    catch (FormatException e)
     {
         Console.WriteLine();
         Console.WriteLine("Digite apenas numero.");
         Console.WriteLine("Pressione ENTER para continuar...");
         Console.ReadLine();
-
-        MenuPrincipal();
     }
 
-    
+
 }
 
 void CriarPersonagem()
@@ -90,47 +96,37 @@ void CriarPersonagem()
 
             Console.Write("Nome do personagem: ");
             var nome = Console.ReadLine();
+            ValidaNomeDisponivel(nome);
 
-            if (PersonagemExiste(nome) == false)
-            {
-                Console.WriteLine("\n|-- Classes");
-                Console.WriteLine("""
+            Console.WriteLine("\n|-- Classes");
+            Console.WriteLine("""
                 1 - Guerreiro (VIDA: 100, ATQ: 20, DEF: 15)
                 2 - Mago (VIDA: 100, ATQ: 30, DEF: 5)
                 3 - Arqueiro (VIDA: 100, ATQ: 25, DEF: 10)
                 4 - Ladino (VIDA: 100, ATQ: 40, DEF: 3)
                 5 - Paladino (VIDA: 100, ATQ: 10, DEF: 30)
                 """);
-                Console.Write("\nEscolha a classe do personagem: ");
-                ClassePersonagem classe = Enum.Parse<ClassePersonagem>(Console.ReadLine());
+            Console.Write("\nEscolha a classe do personagem: ");
+            ClassePersonagem classe = Enum.Parse<ClassePersonagem>(Console.ReadLine());
 
-                Console.WriteLine();
+            Console.WriteLine();
 
-                Console.WriteLine("|-- Equipamentos: ");
-                Console.WriteLine("""
+            Console.WriteLine("|-- Equipamentos: ");
+            Console.WriteLine("""
                 1 - Espada de Ferro (ATQ: +15, DEF: +3)
                 2 - Arco Longo (ATQ: +20, DEF: +1)
                 3 - Escudo de Carvalho (ATQ: +2, DEF: +28)
                 4 - Cajado Arcano (ATQ: +25, DEF: +7)
                 5 - Capa de Merlin (ATQ: +23, DEF: +17)
                 """);
-                Console.Write("\nEscolha o equipamento do personagem: ");
-                int num = int.Parse(Console.ReadLine());
+            Console.Write("\nEscolha o equipamento do personagem: ");
+            int num = int.Parse(Console.ReadLine());
 
-                CriacaoPersonagem(classe, nome, CriarEquipamento(num));
+            CriacaoPersonagem(classe, nome, CriarEquipamento(num));
 
-                Console.WriteLine();
-                Console.Write("Deseja criar outro personagem? (s/n): ");
-                opc = char.Parse(Console.ReadLine());
-            }
-            else
-            {
-                Console.WriteLine();
-                Console.WriteLine("Já existe um personagem criado com esse nome");
-                Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
-                Console.ReadLine();
-                break;
-            }
+            Console.WriteLine();
+            Console.Write("Deseja criar outro personagem? (s/n): ");
+            opc = char.Parse(Console.ReadLine());
 
         } while (opc == 's');
 
@@ -143,34 +139,31 @@ void CriarPersonagem()
         Console.WriteLine("Pressione ENTER para continuar...");
         Console.ReadLine();
     }
-    catch (ArgumentException e) 
+    catch (ArgumentException e)
     {
         Console.WriteLine();
         Console.WriteLine("Classe não encontrada. Error: " + e.Message);
         Console.WriteLine("Pressione ENTER para continuar...");
         Console.ReadLine();
     }
-
-    MenuPrincipal();
+    catch (DomainException e)
+    {
+        Console.WriteLine();
+        Console.WriteLine(e.Message);
+        Console.WriteLine("Pressione ENTER para continuar...");
+        Console.ReadLine();
+    }
 }
 
 
 void ListarPersonagem()
 {
     Console.Clear();
-
-    Console.WriteLine("====== Listagem de Personagem ======");
-    Console.WriteLine();
-
-    for (int i = 0; i < listaDePersonagens.Count; i++)
-    {
-        Console.WriteLine($"{i + 1} - {listaDePersonagens[i].Nome} ({listaDePersonagens[i].Classe})");
-    }
-
-    Console.WriteLine();
-
     try
     {
+        Console.WriteLine("====== Listagem de Personagem ======");
+        ListagemDePersonagem();
+
         Console.Write("Deseja visualizar algum personagem? (s/n): ");
         char opc = char.Parse(Console.ReadLine());
 
@@ -179,16 +172,20 @@ void ListarPersonagem()
             BuscarPersonagem();
         }
     }
-    catch (FormatException e) 
+    catch (FormatException e)
     {
         Console.WriteLine();
         Console.WriteLine("Formato de entrada incorreto. Error: " + e.Message);
         Console.WriteLine("Pressione ENTER para continuar...");
         Console.ReadLine();
     }
-  
-
-    MenuPrincipal();
+    catch (DomainException e)
+    {
+        Console.WriteLine();
+        Console.WriteLine(e.Message);
+        Console.WriteLine("Pressione ENTER para continuar...");
+        Console.ReadLine();
+    }
 }
 
 void BuscarPersonagem()
@@ -218,76 +215,75 @@ void BuscarPersonagem()
         Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
         Console.ReadLine();
     }
-
-    MenuPrincipal();
-
 }
 
 void RemoverPersonagem()
 {
     Console.Clear();
 
-    Console.WriteLine("====== Remoção de Personagem ======");
-    Console.WriteLine();
-
-    for (int i = 0; i < listaDePersonagens.Count; i++)
+    try
     {
-        Console.WriteLine($"{i + 1} - {listaDePersonagens[i].Nome} ({listaDePersonagens[i].Classe})");
-    }
+        Console.WriteLine("====== Remoção de Personagem ======");
+        Console.WriteLine();
+        ListagemDePersonagem();
 
-    Console.Write("Digite o nome do personagem a ser removido: ");
-    string nome = Console.ReadLine();
+        Console.Write("Digite o nome do personagem a ser removido: ");
+        string nome = Console.ReadLine();
 
-    if (PersonagemExiste(nome) != false)
-    {
-        foreach (Personagem p in listaDePersonagens)
+        if (PersonagemExiste(nome) != false)
         {
-            if (p.Nome.ToLower() == nome.ToLower())
+            foreach (Personagem p in listaDePersonagens)
             {
-                listaDePersonagens.Remove(p);
-                Personagem.DecrementarTotalPersonagem();
+                if (p.Nome.ToLower() == nome.ToLower())
+                {
+                    listaDePersonagens.Remove(p);
+                    Personagem.DecrementarTotalPersonagem();
 
-                Console.WriteLine();
-                Console.WriteLine($"Personagem {p.Nome} removido com sucesso!");
-                Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
-                Console.ReadLine();
-                break;
+                    Console.WriteLine();
+                    Console.WriteLine($"Personagem {p.Nome} removido com sucesso!");
+                    Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
+                    Console.ReadLine();
+                    break;
+                }
             }
         }
+        else
+        {
+            Console.WriteLine();
+            Console.WriteLine("Personagem não encontrado");
+            Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
+            Console.ReadLine();
+        }
+
     }
-    else
+    catch (DomainException e)
     {
         Console.WriteLine();
-        Console.WriteLine("Personagem não encontrado");
-        Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
+        Console.WriteLine(e.Message);
+        Console.WriteLine("Pressione ENTER para continuar...");
         Console.ReadLine();
     }
-
-    MenuPrincipal();
-
 }
 
 void SimularBatalha()
 {
     Console.Clear();
-
-    Console.WriteLine("====== Simulação de Batalha ======");
-    Console.WriteLine();
-
-    for (int i = 0; i < listaDePersonagens.Count; i++)
+    try
     {
-        Console.WriteLine($"{i + 1} - {listaDePersonagens[i].Nome} ({listaDePersonagens[i].Classe})");
-    }
+        Console.WriteLine("====== Simulação de Batalha ======");
+        Console.WriteLine();
 
-    Console.Write("Escolha seu personagem para batalhar: ");
-    string nome = Console.ReadLine();
-    Console.Write("Escolha o adversário para batalhar: ");
-    string adversario = Console.ReadLine();
+        ListagemDePersonagem();
 
-    Personagem p1 = ObterPersonagem(nome);
-    Personagem p2 = ObterPersonagem(adversario);
+        Console.Write("Escolha seu personagem para batalhar: ");
+        string nome = Console.ReadLine();
+        Console.Write("Escolha o adversário para batalhar: ");
+        string adversario = Console.ReadLine();
 
-    Console.WriteLine($"""
+        Personagem p1 = ObterPersonagem(nome);
+        Personagem p2 = ObterPersonagem(adversario);
+
+        Console.WriteLine($"""
                         ==================================
                                    BATALHA CRIADA
                         ==================================
@@ -301,10 +297,9 @@ void SimularBatalha()
                
         """);
 
-    Console.WriteLine();
+        Console.WriteLine();
 
-    try 
-    {
+
         int opc;
 
         while (p1.Vida != 0 && p2.Vida != 0)
@@ -499,8 +494,13 @@ void SimularBatalha()
         Console.WriteLine("Pressione ENTER para continuar...");
         Console.ReadLine();
     }
-
-    MenuPrincipal();
+    catch (DomainException e) 
+    {
+        Console.WriteLine();
+        Console.WriteLine(e.Message);
+        Console.WriteLine("Pressione ENTER para continuar...");
+        Console.ReadLine();
+    }
 }
 
 void QuantidadePersonagens()
@@ -516,8 +516,6 @@ void QuantidadePersonagens()
     Console.WriteLine();
     Console.WriteLine("Pressione qualquer tecla para voltar ao Menu Principal...");
     Console.ReadLine();
-
-    MenuPrincipal();
 }
 
 
@@ -624,4 +622,32 @@ Personagem ObterPersonagem(string nome)
     }
 
     return personagem;
+}
+
+//Metodo para validar se o nome está diponivel para uso.
+void ValidaNomeDisponivel(string nome)
+{
+
+    if (PersonagemExiste(nome) == true)
+    {
+        throw new DomainException($"O personagem {nome} já foi criado.");
+    }
+}
+
+//Metodo para listar os personagem a lista não seja vazia
+void ListagemDePersonagem()
+{
+    if (listaDePersonagens.Count == 0)
+    {
+        throw new DomainException("Não existe personagens criados.");
+    }
+
+    Console.WriteLine();
+
+    for (int i = 0; i < listaDePersonagens.Count; i++)
+    {
+        Console.WriteLine($"{i + 1} - {listaDePersonagens[i].Nome} ({listaDePersonagens[i].Classe})");
+    }
+
+    Console.WriteLine();
 }
