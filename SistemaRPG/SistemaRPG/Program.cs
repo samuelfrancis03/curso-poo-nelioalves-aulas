@@ -628,7 +628,7 @@ Personagem ObterPersonagem(string nome)
 void ValidaNomeDisponivel(string nome)
 {
 
-    if (PersonagemExiste(nome) == true)
+    if (PersonagemExiste(nome))
     {
         throw new DomainException($"O personagem {nome} já foi criado.");
     }
