@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\bin\Debug\net10.0\ExercicioLista.exe
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\bin\Debug\net10.0\ExercicioLista.deps.json
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\bin\Debug\net10.0\ExercicioLista.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\bin\Debug\net10.0\ExercicioLista.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\bin\Debug\net10.0\ExercicioLista.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\obj\Debug\net10.0\ExercicioLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\obj\Debug\net10.0\ExercicioLista.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\obj\Debug\net10.0\ExercicioLista.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\obj\Debug\net10.0\ExercicioLista.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\obj\Debug\net10.0\ExercicioLista.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\obj\Debug\net10.0\ExercicioLista.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\obj\Debug\net10.0\refint\ExercicioLista.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\obj\Debug\net10.0\ExercicioLista.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\obj\Debug\net10.0\ExercicioLista.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioLista\ExercicioLista\obj\Debug\net10.0\ref\ExercicioLista.dll

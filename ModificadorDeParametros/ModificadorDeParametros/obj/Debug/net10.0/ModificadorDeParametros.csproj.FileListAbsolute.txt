@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net10.0\ModificadorDeParametros.exe
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net10.0\ModificadorDeParametros.deps.json
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net10.0\ModificadorDeParametros.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net10.0\ModificadorDeParametros.dll
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\net10.0\ModificadorDeParametros.pdb
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net10.0\ModificadorDeParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net10.0\ModificadorDeParametros.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net10.0\ModificadorDeParametros.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net10.0\ModificadorDeParametros.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net10.0\ModificadorDeParametros.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net10.0\ModificadorDeParametros.dll
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net10.0\refint\ModificadorDeParametros.dll
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net10.0\ModificadorDeParametros.pdb
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net10.0\ModificadorDeParametros.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\net10.0\ref\ModificadorDeParametros.dll

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\ExercicioPropostoConjuntos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD7E84A-4EE7-14F5-3040-BDBAEFAB0457}|ExercicoPropostoConjuntos\\ExercicoPropostoConjuntos.csproj|c:\\projetos\\cursopoonelioalves\\exerciciopropostoconjuntos\\exercicopropostoconjuntos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD7E84A-4EE7-14F5-3040-BDBAEFAB0457}|ExercicoPropostoConjuntos\\ExercicoPropostoConjuntos.csproj|solutionrelative:exercicopropostoconjuntos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ExercicioPropostoConjuntos\\ExercicoPropostoConjuntos\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicoPropostoConjuntos\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ExercicioPropostoConjuntos\\ExercicoPropostoConjuntos\\Program.cs",
+              "RelativeToolTip": "ExercicoPropostoConjuntos\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T19:48:59.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

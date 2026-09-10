@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80FDF850-5953-4519-AB18-38692A82AA7A}|ClasseMetodosSelados\\ClasseMetodosSelados.csproj|c:\\projetos\\cursopoonelioalves\\classemetodosselados\\classemetodosselados\\entites\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FDF850-5953-4519-AB18-38692A82AA7A}|ClasseMetodosSelados\\ClasseMetodosSelados.csproj|solutionrelative:classemetodosselados\\entites\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FDF850-5953-4519-AB18-38692A82AA7A}|ClasseMetodosSelados\\ClasseMetodosSelados.csproj|c:\\projetos\\cursopoonelioalves\\classemetodosselados\\classemetodosselados\\entites\\savingsaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FDF850-5953-4519-AB18-38692A82AA7A}|ClasseMetodosSelados\\ClasseMetodosSelados.csproj|solutionrelative:classemetodosselados\\entites\\savingsaccountplus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FDF850-5953-4519-AB18-38692A82AA7A}|ClasseMetodosSelados\\ClasseMetodosSelados.csproj|c:\\projetos\\cursopoonelioalves\\classemetodosselados\\classemetodosselados\\entites\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FDF850-5953-4519-AB18-38692A82AA7A}|ClasseMetodosSelados\\ClasseMetodosSelados.csproj|solutionrelative:classemetodosselados\\entites\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FDF850-5953-4519-AB18-38692A82AA7A}|ClasseMetodosSelados\\ClasseMetodosSelados.csproj|c:\\projetos\\cursopoonelioalves\\classemetodosselados\\classemetodosselados\\entites\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FDF850-5953-4519-AB18-38692A82AA7A}|ClasseMetodosSelados\\ClasseMetodosSelados.csproj|solutionrelative:classemetodosselados\\entites\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FDF850-5953-4519-AB18-38692A82AA7A}|ClasseMetodosSelados\\ClasseMetodosSelados.csproj|c:\\projetos\\cursopoonelioalves\\classemetodosselados\\classemetodosselados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FDF850-5953-4519-AB18-38692A82AA7A}|ClasseMetodosSelados\\ClasseMetodosSelados.csproj|solutionrelative:classemetodosselados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\ClasseMetodosSelados\\Entites\\Account.cs",
+              "RelativeDocumentMoniker": "ClasseMetodosSelados\\Entites\\Account.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\ClasseMetodosSelados\\Entites\\Account.cs",
+              "RelativeToolTip": "ClasseMetodosSelados\\Entites\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:57:41.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccountPlus.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\ClasseMetodosSelados\\Entites\\SavingsAccountPlus.cs",
+              "RelativeDocumentMoniker": "ClasseMetodosSelados\\Entites\\SavingsAccountPlus.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\ClasseMetodosSelados\\Entites\\SavingsAccountPlus.cs",
+              "RelativeToolTip": "ClasseMetodosSelados\\Entites\\SavingsAccountPlus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:07:00.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\ClasseMetodosSelados\\Entites\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "ClasseMetodosSelados\\Entites\\SavingsAccount.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\ClasseMetodosSelados\\Entites\\SavingsAccount.cs",
+              "RelativeToolTip": "ClasseMetodosSelados\\Entites\\SavingsAccount.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:06:06.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\ClasseMetodosSelados\\Entites\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "ClasseMetodosSelados\\Entites\\BusinessAccount.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\ClasseMetodosSelados\\Entites\\BusinessAccount.cs",
+              "RelativeToolTip": "ClasseMetodosSelados\\Entites\\BusinessAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:05:07.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\ClasseMetodosSelados\\Program.cs",
+              "RelativeDocumentMoniker": "ClasseMetodosSelados\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ClasseMetodosSelados\\ClasseMetodosSelados\\Program.cs",
+              "RelativeToolTip": "ClasseMetodosSelados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T18:51:10.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

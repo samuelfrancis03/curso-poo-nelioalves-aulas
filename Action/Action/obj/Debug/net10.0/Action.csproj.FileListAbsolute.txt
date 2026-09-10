@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\Action\Action\bin\Debug\net10.0\Action.exe
+C:\Projetos\CursoPooNelioAlves\Action\Action\bin\Debug\net10.0\Action.deps.json
+C:\Projetos\CursoPooNelioAlves\Action\Action\bin\Debug\net10.0\Action.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\Action\Action\bin\Debug\net10.0\Action.dll
+C:\Projetos\CursoPooNelioAlves\Action\Action\bin\Debug\net10.0\Action.pdb
+C:\Projetos\CursoPooNelioAlves\Action\Action\obj\Debug\net10.0\Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\Action\Action\obj\Debug\net10.0\Action.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\Action\Action\obj\Debug\net10.0\Action.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\Action\Action\obj\Debug\net10.0\Action.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\Action\Action\obj\Debug\net10.0\Action.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\Action\Action\obj\Debug\net10.0\Action.dll
+C:\Projetos\CursoPooNelioAlves\Action\Action\obj\Debug\net10.0\refint\Action.dll
+C:\Projetos\CursoPooNelioAlves\Action\Action\obj\Debug\net10.0\Action.pdb
+C:\Projetos\CursoPooNelioAlves\Action\Action\obj\Debug\net10.0\Action.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\Action\Action\obj\Debug\net10.0\ref\Action.dll

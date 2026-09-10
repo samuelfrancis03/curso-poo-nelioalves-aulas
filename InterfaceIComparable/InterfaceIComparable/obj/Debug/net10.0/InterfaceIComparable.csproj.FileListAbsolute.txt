@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\bin\Debug\net10.0\InterfaceIComparable.exe
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\bin\Debug\net10.0\InterfaceIComparable.deps.json
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\bin\Debug\net10.0\InterfaceIComparable.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\bin\Debug\net10.0\InterfaceIComparable.dll
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\bin\Debug\net10.0\InterfaceIComparable.pdb
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\obj\Debug\net10.0\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\obj\Debug\net10.0\InterfaceIComparable.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\obj\Debug\net10.0\InterfaceIComparable.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\obj\Debug\net10.0\InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\obj\Debug\net10.0\InterfaceIComparable.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\obj\Debug\net10.0\InterfaceIComparable.dll
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\obj\Debug\net10.0\refint\InterfaceIComparable.dll
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\obj\Debug\net10.0\InterfaceIComparable.pdb
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\obj\Debug\net10.0\InterfaceIComparable.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\InterfaceIComparable\InterfaceIComparable\obj\Debug\net10.0\ref\InterfaceIComparable.dll

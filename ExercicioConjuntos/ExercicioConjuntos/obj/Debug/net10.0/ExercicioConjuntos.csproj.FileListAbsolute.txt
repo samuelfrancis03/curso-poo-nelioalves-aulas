@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net10.0\ExercicioConjuntos.exe
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net10.0\ExercicioConjuntos.deps.json
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net10.0\ExercicioConjuntos.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net10.0\ExercicioConjuntos.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\bin\Debug\net10.0\ExercicioConjuntos.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net10.0\ExercicioConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net10.0\ExercicioConjuntos.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net10.0\ExercicioConjuntos.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net10.0\ExercicioConjuntos.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net10.0\ExercicioConjuntos.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net10.0\ExercicioConjuntos.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net10.0\refint\ExercicioConjuntos.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net10.0\ExercicioConjuntos.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net10.0\ExercicioConjuntos.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioConjuntos\ExercicioConjuntos\obj\Debug\net10.0\ref\ExercicioConjuntos.dll

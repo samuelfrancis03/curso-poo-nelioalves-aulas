@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\bin\Debug\net10.0\EstruturaDeDados.exe
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\bin\Debug\net10.0\EstruturaDeDados.deps.json
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\bin\Debug\net10.0\EstruturaDeDados.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\bin\Debug\net10.0\EstruturaDeDados.dll
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\bin\Debug\net10.0\EstruturaDeDados.pdb
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\obj\Debug\net10.0\EstruturaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\obj\Debug\net10.0\EstruturaDeDados.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\obj\Debug\net10.0\EstruturaDeDados.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\obj\Debug\net10.0\EstruturaDeDados.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\obj\Debug\net10.0\EstruturaDeDados.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\obj\Debug\net10.0\EstruturaDeDados.dll
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\obj\Debug\net10.0\refint\EstruturaDeDados.dll
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\obj\Debug\net10.0\EstruturaDeDados.pdb
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\obj\Debug\net10.0\EstruturaDeDados.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\EstruturaDeDados\EstruturaDeDados\obj\Debug\net10.0\ref\EstruturaDeDados.dll

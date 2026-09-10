@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\bin\Debug\net10.0\TopicosEspeciais2.exe
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\bin\Debug\net10.0\TopicosEspeciais2.deps.json
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\bin\Debug\net10.0\TopicosEspeciais2.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\bin\Debug\net10.0\TopicosEspeciais2.dll
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\bin\Debug\net10.0\TopicosEspeciais2.pdb
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\obj\Debug\net10.0\TopicosEspeciais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\obj\Debug\net10.0\TopicosEspeciais2.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\obj\Debug\net10.0\TopicosEspeciais2.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\obj\Debug\net10.0\TopicosEspeciais2.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\obj\Debug\net10.0\TopicosEspeciais2.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\obj\Debug\net10.0\TopicosEspeciais2.dll
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\obj\Debug\net10.0\refint\TopicosEspeciais2.dll
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\obj\Debug\net10.0\TopicosEspeciais2.pdb
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\obj\Debug\net10.0\TopicosEspeciais2.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\TopicosEspeciais2\TopicosEspeciais2\obj\Debug\net10.0\ref\TopicosEspeciais2.dll

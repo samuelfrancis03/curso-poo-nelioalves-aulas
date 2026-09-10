@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|c:\\projetos\\cursopoonelioalves\\financiamentoveiculo\\financiamentoveiculo\\entities\\financing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|solutionrelative:financiamentoveiculo\\entities\\financing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|c:\\projetos\\cursopoonelioalves\\financiamentoveiculo\\financiamentoveiculo\\services\\financingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|solutionrelative:financiamentoveiculo\\services\\financingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|c:\\projetos\\cursopoonelioalves\\financiamentoveiculo\\financiamentoveiculo\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|solutionrelative:financiamentoveiculo\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|c:\\projetos\\cursopoonelioalves\\financiamentoveiculo\\financiamentoveiculo\\services\\financecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|solutionrelative:financiamentoveiculo\\services\\financecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|c:\\projetos\\cursopoonelioalves\\financiamentoveiculo\\financiamentoveiculo\\services\\ifinancecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|solutionrelative:financiamentoveiculo\\services\\ifinancecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|c:\\projetos\\cursopoonelioalves\\financiamentoveiculo\\financiamentoveiculo\\services\\ifinancingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|solutionrelative:financiamentoveiculo\\services\\ifinancingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|c:\\projetos\\cursopoonelioalves\\financiamentoveiculo\\financiamentoveiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CD62D2-A7CB-6B41-C692-E5EFECFE5866}|FinanciamentoVeiculo\\FinanciamentoVeiculo.csproj|solutionrelative:financiamentoveiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3CBDD1-8F9B-F914-3749-912317DAC4B6}|FinanciamentoVeiculo.UnitTests\\FinanciamentoVeiculo.UnitTests.csproj|c:\\projetos\\cursopoonelioalves\\financiamentoveiculo\\financiamentoveiculo.unittests\\financeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3CBDD1-8F9B-F914-3749-912317DAC4B6}|FinanciamentoVeiculo.UnitTests\\FinanciamentoVeiculo.UnitTests.csproj|solutionrelative:financiamentoveiculo.unittests\\financeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Financing.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Entities\\Financing.cs",
+              "RelativeDocumentMoniker": "FinanciamentoVeiculo\\Entities\\Financing.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Entities\\Financing.cs",
+              "RelativeToolTip": "FinanciamentoVeiculo\\Entities\\Financing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:27:44.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinancingService.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Services\\FinancingService.cs",
+              "RelativeDocumentMoniker": "FinanciamentoVeiculo\\Services\\FinancingService.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Services\\FinancingService.cs",
+              "RelativeToolTip": "FinanciamentoVeiculo\\Services\\FinancingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:36:30.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Installment.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Entities\\Installment.cs",
+              "RelativeDocumentMoniker": "FinanciamentoVeiculo\\Entities\\Installment.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Entities\\Installment.cs",
+              "RelativeToolTip": "FinanciamentoVeiculo\\Entities\\Installment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:28:04.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinanceCompany.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Services\\FinanceCompany.cs",
+              "RelativeDocumentMoniker": "FinanciamentoVeiculo\\Services\\FinanceCompany.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Services\\FinanceCompany.cs",
+              "RelativeToolTip": "FinanciamentoVeiculo\\Services\\FinanceCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:47:29.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFinanceCompany.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Services\\IFinanceCompany.cs",
+              "RelativeDocumentMoniker": "FinanciamentoVeiculo\\Services\\IFinanceCompany.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Services\\IFinanceCompany.cs",
+              "RelativeToolTip": "FinanciamentoVeiculo\\Services\\IFinanceCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:44:05.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFinancingService.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Services\\IFinancingService.cs",
+              "RelativeDocumentMoniker": "FinanciamentoVeiculo\\Services\\IFinancingService.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Services\\IFinancingService.cs",
+              "RelativeToolTip": "FinanciamentoVeiculo\\Services\\IFinancingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:37:07.032Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Program.cs",
+              "RelativeDocumentMoniker": "FinanciamentoVeiculo\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo\\Program.cs",
+              "RelativeToolTip": "FinanciamentoVeiculo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:24:38.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinanceServiceTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo.UnitTests\\FinanceServiceTests.cs",
+              "RelativeDocumentMoniker": "FinanciamentoVeiculo.UnitTests\\FinanceServiceTests.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\FinanciamentoVeiculo\\FinanciamentoVeiculo.UnitTests\\FinanceServiceTests.cs",
+              "RelativeToolTip": "FinanciamentoVeiculo.UnitTests\\FinanceServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T19:05:41.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

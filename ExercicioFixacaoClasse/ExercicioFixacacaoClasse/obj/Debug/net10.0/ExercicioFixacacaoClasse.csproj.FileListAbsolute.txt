@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\bin\Debug\net10.0\ExercicioFixacacaoClasse.exe
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\bin\Debug\net10.0\ExercicioFixacacaoClasse.deps.json
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\bin\Debug\net10.0\ExercicioFixacacaoClasse.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\bin\Debug\net10.0\ExercicioFixacacaoClasse.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\bin\Debug\net10.0\ExercicioFixacacaoClasse.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\obj\Debug\net10.0\ExercicioFixacacaoClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\obj\Debug\net10.0\ExercicioFixacacaoClasse.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\obj\Debug\net10.0\ExercicioFixacacaoClasse.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\obj\Debug\net10.0\ExercicioFixacacaoClasse.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\obj\Debug\net10.0\ExercicioFixacacaoClasse.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\obj\Debug\net10.0\ExercicioFixacacaoClasse.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\obj\Debug\net10.0\refint\ExercicioFixacacaoClasse.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\obj\Debug\net10.0\ExercicioFixacacaoClasse.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\obj\Debug\net10.0\ExercicioFixacacaoClasse.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioFixacacaoClasse\ExercicioFixacacaoClasse\obj\Debug\net10.0\ref\ExercicioFixacacaoClasse.dll

@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|c:\\projetos\\cursopoonelioalves\\interface\\interface\\services\\rentalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|solutionrelative:interface\\services\\rentalservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|c:\\projetos\\cursopoonelioalves\\interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|c:\\projetos\\cursopoonelioalves\\interface\\interface\\services\\braziltaxservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|solutionrelative:interface\\services\\braziltaxservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|c:\\projetos\\cursopoonelioalves\\interface\\interface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|solutionrelative:interface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|c:\\projetos\\cursopoonelioalves\\interface\\interface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|solutionrelative:interface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|c:\\projetos\\cursopoonelioalves\\interface\\interface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|solutionrelative:interface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|c:\\projetos\\cursopoonelioalves\\interface\\interface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57B9F94-30A5-2A7B-6B0A-9B595FD6094F}|Interface\\Interface.csproj|solutionrelative:interface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "Interface\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Services\\ITaxService.cs",
+              "RelativeToolTip": "Interface\\Services\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T13:58:56.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "Interface\\Entities\\CarRental.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "Interface\\Entities\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:39:36.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalServices.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Services\\RentalServices.cs",
+              "RelativeDocumentMoniker": "Interface\\Services\\RentalServices.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Services\\RentalServices.cs",
+              "RelativeToolTip": "Interface\\Services\\RentalServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:55:23.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T19:03:38.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "Interface\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "Interface\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T18:17:57.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrazilTaxServices.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Services\\BrazilTaxServices.cs",
+              "RelativeDocumentMoniker": "Interface\\Services\\BrazilTaxServices.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Services\\BrazilTaxServices.cs",
+              "RelativeToolTip": "Interface\\Services\\BrazilTaxServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:52:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Interface\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\Interface\\Interface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Interface\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T23:39:21.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

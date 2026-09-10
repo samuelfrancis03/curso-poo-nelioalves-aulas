@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\Action\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEC90F4-7376-4AF6-8FC9-CDA3D0614474}|Action\\Action.csproj|c:\\projetos\\cursopoonelioalves\\action\\action\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEC90F4-7376-4AF6-8FC9-CDA3D0614474}|Action\\Action.csproj|solutionrelative:action\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFEC90F4-7376-4AF6-8FC9-CDA3D0614474}|Action\\Action.csproj|c:\\projetos\\cursopoonelioalves\\action\\action\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFEC90F4-7376-4AF6-8FC9-CDA3D0614474}|Action\\Action.csproj|solutionrelative:action\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\Action\\Action\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Action\\Entities\\Product.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\Action\\Action\\Entities\\Product.cs",
+              "RelativeToolTip": "Action\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:36:21.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\Action\\Action\\Program.cs",
+              "RelativeDocumentMoniker": "Action\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\Action\\Action\\Program.cs",
+              "RelativeToolTip": "Action\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:34:54.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

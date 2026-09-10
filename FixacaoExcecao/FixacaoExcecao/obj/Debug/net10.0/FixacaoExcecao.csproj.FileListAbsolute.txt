@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\bin\Debug\net10.0\FixacaoExcecao.exe
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\bin\Debug\net10.0\FixacaoExcecao.deps.json
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\bin\Debug\net10.0\FixacaoExcecao.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\bin\Debug\net10.0\FixacaoExcecao.dll
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\bin\Debug\net10.0\FixacaoExcecao.pdb
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\obj\Debug\net10.0\FixacaoExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\obj\Debug\net10.0\FixacaoExcecao.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\obj\Debug\net10.0\FixacaoExcecao.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\obj\Debug\net10.0\FixacaoExcecao.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\obj\Debug\net10.0\FixacaoExcecao.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\obj\Debug\net10.0\FixacaoExcecao.dll
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\obj\Debug\net10.0\refint\FixacaoExcecao.dll
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\obj\Debug\net10.0\FixacaoExcecao.pdb
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\obj\Debug\net10.0\FixacaoExcecao.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\FixacaoExcecao\FixacaoExcecao\obj\Debug\net10.0\ref\FixacaoExcecao.dll

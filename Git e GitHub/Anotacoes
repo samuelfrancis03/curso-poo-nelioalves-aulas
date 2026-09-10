@@ -1,0 +1,7 @@
+git init -> Incializa um repositorio.
+git add -> adiciona arquivos
+git status -> mostra o status dos arquivos
+git commit -m "message" -> salava a nova versão no repositorio
+git branch -m "main/master" -> seleciona a branch que está usando.
+git remote add origin 'repositorio' -> seleciona o repositorio destino da sua pasta
+git push origin -u origin 'branch' -> envia os arquivos para seu repositorio

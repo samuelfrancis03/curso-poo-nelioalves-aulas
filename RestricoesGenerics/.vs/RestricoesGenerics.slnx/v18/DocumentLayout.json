@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\RestricoesGenerics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E58140-C8A2-03E1-03CB-06823793BB86}|RestricoesGenerics\\RestricoesGenerics.csproj|c:\\projetos\\cursopoonelioalves\\restricoesgenerics\\restricoesgenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E58140-C8A2-03E1-03CB-06823793BB86}|RestricoesGenerics\\RestricoesGenerics.csproj|solutionrelative:restricoesgenerics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E58140-C8A2-03E1-03CB-06823793BB86}|RestricoesGenerics\\RestricoesGenerics.csproj|c:\\projetos\\cursopoonelioalves\\restricoesgenerics\\restricoesgenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E58140-C8A2-03E1-03CB-06823793BB86}|RestricoesGenerics\\RestricoesGenerics.csproj|solutionrelative:restricoesgenerics\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E58140-C8A2-03E1-03CB-06823793BB86}|RestricoesGenerics\\RestricoesGenerics.csproj|c:\\projetos\\cursopoonelioalves\\restricoesgenerics\\restricoesgenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E58140-C8A2-03E1-03CB-06823793BB86}|RestricoesGenerics\\RestricoesGenerics.csproj|solutionrelative:restricoesgenerics\\services\\calculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\RestricoesGenerics\\RestricoesGenerics\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "RestricoesGenerics\\Entities\\Product.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\RestricoesGenerics\\RestricoesGenerics\\Entities\\Product.cs",
+              "RelativeToolTip": "RestricoesGenerics\\Entities\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T15:03:50.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculationService.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\RestricoesGenerics\\RestricoesGenerics\\Services\\CalculationService.cs",
+              "RelativeDocumentMoniker": "RestricoesGenerics\\Services\\CalculationService.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\RestricoesGenerics\\RestricoesGenerics\\Services\\CalculationService.cs",
+              "RelativeToolTip": "RestricoesGenerics\\Services\\CalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:50:44.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\RestricoesGenerics\\RestricoesGenerics\\Program.cs",
+              "RelativeDocumentMoniker": "RestricoesGenerics\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\RestricoesGenerics\\RestricoesGenerics\\Program.cs",
+              "RelativeToolTip": "RestricoesGenerics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:46:16.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\Func\Func\bin\Debug\net10.0\Func.exe
+C:\Projetos\CursoPooNelioAlves\Func\Func\bin\Debug\net10.0\Func.deps.json
+C:\Projetos\CursoPooNelioAlves\Func\Func\bin\Debug\net10.0\Func.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\Func\Func\bin\Debug\net10.0\Func.dll
+C:\Projetos\CursoPooNelioAlves\Func\Func\bin\Debug\net10.0\Func.pdb
+C:\Projetos\CursoPooNelioAlves\Func\Func\obj\Debug\net10.0\Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\Func\Func\obj\Debug\net10.0\Func.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\Func\Func\obj\Debug\net10.0\Func.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\Func\Func\obj\Debug\net10.0\Func.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\Func\Func\obj\Debug\net10.0\Func.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\Func\Func\obj\Debug\net10.0\Func.dll
+C:\Projetos\CursoPooNelioAlves\Func\Func\obj\Debug\net10.0\refint\Func.dll
+C:\Projetos\CursoPooNelioAlves\Func\Func\obj\Debug\net10.0\Func.pdb
+C:\Projetos\CursoPooNelioAlves\Func\Func\obj\Debug\net10.0\Func.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\Func\Func\obj\Debug\net10.0\ref\Func.dll

@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\bin\Debug\net10.0\ComparacaoHash.exe
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\bin\Debug\net10.0\ComparacaoHash.deps.json
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\bin\Debug\net10.0\ComparacaoHash.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\bin\Debug\net10.0\ComparacaoHash.dll
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\bin\Debug\net10.0\ComparacaoHash.pdb
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\obj\Debug\net10.0\ComparacaoHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\obj\Debug\net10.0\ComparacaoHash.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\obj\Debug\net10.0\ComparacaoHash.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\obj\Debug\net10.0\ComparacaoHash.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\obj\Debug\net10.0\ComparacaoHash.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\obj\Debug\net10.0\ComparacaoHash.dll
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\obj\Debug\net10.0\refint\ComparacaoHash.dll
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\obj\Debug\net10.0\ComparacaoHash.pdb
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\obj\Debug\net10.0\ComparacaoHash.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ComparacaoHash\ComparacaoHash\obj\Debug\net10.0\ref\ComparacaoHash.dll

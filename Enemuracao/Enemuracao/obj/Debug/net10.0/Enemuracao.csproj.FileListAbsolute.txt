@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\bin\Debug\net10.0\Enemuracao.exe
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\bin\Debug\net10.0\Enemuracao.deps.json
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\bin\Debug\net10.0\Enemuracao.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\bin\Debug\net10.0\Enemuracao.dll
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\bin\Debug\net10.0\Enemuracao.pdb
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\obj\Debug\net10.0\Enemuracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\obj\Debug\net10.0\Enemuracao.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\obj\Debug\net10.0\Enemuracao.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\obj\Debug\net10.0\Enemuracao.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\obj\Debug\net10.0\Enemuracao.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\obj\Debug\net10.0\Enemuracao.dll
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\obj\Debug\net10.0\refint\Enemuracao.dll
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\obj\Debug\net10.0\Enemuracao.pdb
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\obj\Debug\net10.0\Enemuracao.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\Enemuracao\Enemuracao\obj\Debug\net10.0\ref\Enemuracao.dll

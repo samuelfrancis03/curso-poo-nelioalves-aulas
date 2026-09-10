@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\bin\Debug\net10.0\Encapsulamento.exe
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\bin\Debug\net10.0\Encapsulamento.deps.json
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\bin\Debug\net10.0\Encapsulamento.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\bin\Debug\net10.0\Encapsulamento.dll
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\bin\Debug\net10.0\Encapsulamento.pdb
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\obj\Debug\net10.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\obj\Debug\net10.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\obj\Debug\net10.0\Encapsulamento.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\obj\Debug\net10.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\obj\Debug\net10.0\Encapsulamento.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\obj\Debug\net10.0\Encapsulamento.dll
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\obj\Debug\net10.0\refint\Encapsulamento.dll
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\obj\Debug\net10.0\Encapsulamento.pdb
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\obj\Debug\net10.0\Encapsulamento.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\Encapsulamento\Encapsulamento\obj\Debug\net10.0\ref\Encapsulamento.dll

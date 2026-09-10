@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\bin\Debug\net10.0\RestricoesGenerics.exe
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\bin\Debug\net10.0\RestricoesGenerics.deps.json
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\bin\Debug\net10.0\RestricoesGenerics.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\bin\Debug\net10.0\RestricoesGenerics.dll
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\bin\Debug\net10.0\RestricoesGenerics.pdb
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\obj\Debug\net10.0\RestricoesGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\obj\Debug\net10.0\RestricoesGenerics.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\obj\Debug\net10.0\RestricoesGenerics.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\obj\Debug\net10.0\RestricoesGenerics.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\obj\Debug\net10.0\RestricoesGenerics.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\obj\Debug\net10.0\RestricoesGenerics.dll
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\obj\Debug\net10.0\refint\RestricoesGenerics.dll
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\obj\Debug\net10.0\RestricoesGenerics.pdb
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\obj\Debug\net10.0\RestricoesGenerics.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\RestricoesGenerics\RestricoesGenerics\obj\Debug\net10.0\ref\RestricoesGenerics.dll

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\SistemaRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC0EAB8-2113-0C22-6F26-BC401AF5B448}|SistemaRPG\\SistemaRPG.csproj|c:\\projetos\\cursopoonelioalves\\sistemarpg\\sistemarpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC0EAB8-2113-0C22-6F26-BC401AF5B448}|SistemaRPG\\SistemaRPG.csproj|solutionrelative:sistemarpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\SistemaRPG\\SistemaRPG\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaRPG\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\SistemaRPG\\SistemaRPG\\Program.cs",
+              "RelativeToolTip": "SistemaRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T21:30:05.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

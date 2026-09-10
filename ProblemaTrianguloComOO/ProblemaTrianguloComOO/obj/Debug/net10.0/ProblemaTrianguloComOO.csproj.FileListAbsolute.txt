@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\bin\Debug\net10.0\ProblemaTrianguloComOO.exe
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\bin\Debug\net10.0\ProblemaTrianguloComOO.deps.json
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\bin\Debug\net10.0\ProblemaTrianguloComOO.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\bin\Debug\net10.0\ProblemaTrianguloComOO.dll
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\bin\Debug\net10.0\ProblemaTrianguloComOO.pdb
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\obj\Debug\net10.0\ProblemaTrianguloComOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\obj\Debug\net10.0\ProblemaTrianguloComOO.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\obj\Debug\net10.0\ProblemaTrianguloComOO.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\obj\Debug\net10.0\ProblemaTrianguloComOO.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\obj\Debug\net10.0\ProblemaTrianguloComOO.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\obj\Debug\net10.0\ProblemaTrianguloComOO.dll
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\obj\Debug\net10.0\refint\ProblemaTrianguloComOO.dll
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\obj\Debug\net10.0\ProblemaTrianguloComOO.pdb
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\obj\Debug\net10.0\ProblemaTrianguloComOO.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ProblemaTrianguloComOO\ProblemaTrianguloComOO\obj\Debug\net10.0\ref\ProblemaTrianguloComOO.dll

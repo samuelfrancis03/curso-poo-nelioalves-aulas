@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\bin\Debug\net10.0\InterfaceFixacao.exe
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\bin\Debug\net10.0\InterfaceFixacao.deps.json
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\bin\Debug\net10.0\InterfaceFixacao.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\bin\Debug\net10.0\InterfaceFixacao.dll
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\bin\Debug\net10.0\InterfaceFixacao.pdb
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\obj\Debug\net10.0\InterfaceFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\obj\Debug\net10.0\InterfaceFixacao.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\obj\Debug\net10.0\InterfaceFixacao.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\obj\Debug\net10.0\InterfaceFixacao.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\obj\Debug\net10.0\InterfaceFixacao.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\obj\Debug\net10.0\InterfaceFixacao.dll
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\obj\Debug\net10.0\refint\InterfaceFixacao.dll
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\obj\Debug\net10.0\InterfaceFixacao.pdb
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\obj\Debug\net10.0\InterfaceFixacao.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\InterfaceFixacao\InterfaceFixacao\obj\Debug\net10.0\ref\InterfaceFixacao.dll

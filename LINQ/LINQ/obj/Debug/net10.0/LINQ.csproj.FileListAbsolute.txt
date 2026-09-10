@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\bin\Debug\net10.0\LINQ.exe
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\bin\Debug\net10.0\LINQ.deps.json
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\bin\Debug\net10.0\LINQ.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\bin\Debug\net10.0\LINQ.dll
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\bin\Debug\net10.0\LINQ.pdb
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\obj\Debug\net10.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\obj\Debug\net10.0\LINQ.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\obj\Debug\net10.0\LINQ.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\obj\Debug\net10.0\LINQ.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\obj\Debug\net10.0\LINQ.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\obj\Debug\net10.0\LINQ.dll
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\obj\Debug\net10.0\refint\LINQ.dll
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\obj\Debug\net10.0\LINQ.pdb
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\obj\Debug\net10.0\LINQ.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\LINQ\LINQ\obj\Debug\net10.0\ref\LINQ.dll

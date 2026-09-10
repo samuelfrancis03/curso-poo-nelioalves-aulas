@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\bin\Debug\net10.0\ExercicioResolvidoLINQ.exe
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\bin\Debug\net10.0\ExercicioResolvidoLINQ.deps.json
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\bin\Debug\net10.0\ExercicioResolvidoLINQ.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\bin\Debug\net10.0\ExercicioResolvidoLINQ.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\bin\Debug\net10.0\ExercicioResolvidoLINQ.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net10.0\ExercicioResolvidoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net10.0\ExercicioResolvidoLINQ.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net10.0\ExercicioResolvidoLINQ.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net10.0\ExercicioResolvidoLINQ.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net10.0\ExercicioResolvidoLINQ.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net10.0\ExercicioResolvidoLINQ.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net10.0\refint\ExercicioResolvidoLINQ.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net10.0\ExercicioResolvidoLINQ.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net10.0\ExercicioResolvidoLINQ.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioResolvidoLINQ\ExercicioResolvidoLINQ\obj\Debug\net10.0\ref\ExercicioResolvidoLINQ.dll

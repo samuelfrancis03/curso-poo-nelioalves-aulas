@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\net10.0\ComposicaoExercicio.exe
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\net10.0\ComposicaoExercicio.deps.json
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\net10.0\ComposicaoExercicio.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\net10.0\ComposicaoExercicio.dll
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\bin\Debug\net10.0\ComposicaoExercicio.pdb
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\net10.0\ComposicaoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\net10.0\ComposicaoExercicio.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\net10.0\ComposicaoExercicio.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\net10.0\ComposicaoExercicio.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\net10.0\ComposicaoExercicio.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\net10.0\ComposicaoExercicio.dll
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\net10.0\refint\ComposicaoExercicio.dll
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\net10.0\ComposicaoExercicio.pdb
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\net10.0\ComposicaoExercicio.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ComposicaoExercicio\ComposicaoExercicio\obj\Debug\net10.0\ref\ComposicaoExercicio.dll

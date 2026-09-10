@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\bin\Debug\net10.0\ExercicoPropostoConjuntos.exe
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\bin\Debug\net10.0\ExercicoPropostoConjuntos.deps.json
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\bin\Debug\net10.0\ExercicoPropostoConjuntos.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\bin\Debug\net10.0\ExercicoPropostoConjuntos.dll
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\bin\Debug\net10.0\ExercicoPropostoConjuntos.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\obj\Debug\net10.0\ExercicoPropostoConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\obj\Debug\net10.0\ExercicoPropostoConjuntos.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\obj\Debug\net10.0\ExercicoPropostoConjuntos.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\obj\Debug\net10.0\ExercicoPropostoConjuntos.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\obj\Debug\net10.0\ExercicoPropostoConjuntos.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\obj\Debug\net10.0\ExercicoPropostoConjuntos.dll
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\obj\Debug\net10.0\refint\ExercicoPropostoConjuntos.dll
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\obj\Debug\net10.0\ExercicoPropostoConjuntos.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\obj\Debug\net10.0\ExercicoPropostoConjuntos.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ExercicoPropostoConjuntos\ExercicoPropostoConjuntos\obj\Debug\net10.0\ref\ExercicoPropostoConjuntos.dll

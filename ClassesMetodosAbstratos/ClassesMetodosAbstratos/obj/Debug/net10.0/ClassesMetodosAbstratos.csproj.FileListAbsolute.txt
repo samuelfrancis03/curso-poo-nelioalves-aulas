@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net10.0\ClassesMetodosAbstratos.exe
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net10.0\ClassesMetodosAbstratos.deps.json
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net10.0\ClassesMetodosAbstratos.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net10.0\ClassesMetodosAbstratos.dll
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\bin\Debug\net10.0\ClassesMetodosAbstratos.pdb
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net10.0\ClassesMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net10.0\ClassesMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net10.0\ClassesMetodosAbstratos.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net10.0\ClassesMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net10.0\ClassesMetodosAbstratos.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net10.0\ClassesMetodosAbstratos.dll
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net10.0\refint\ClassesMetodosAbstratos.dll
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net10.0\ClassesMetodosAbstratos.pdb
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net10.0\ClassesMetodosAbstratos.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ClassesMetodosAbstratos\ClassesMetodosAbstratos\obj\Debug\net10.0\ref\ClassesMetodosAbstratos.dll

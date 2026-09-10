@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\bin\Debug\net10.0\FinanciamentoVeiculo.exe
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\bin\Debug\net10.0\FinanciamentoVeiculo.deps.json
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\bin\Debug\net10.0\FinanciamentoVeiculo.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\bin\Debug\net10.0\FinanciamentoVeiculo.dll
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\bin\Debug\net10.0\FinanciamentoVeiculo.pdb
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\obj\Debug\net10.0\FinanciamentoVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\obj\Debug\net10.0\FinanciamentoVeiculo.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\obj\Debug\net10.0\FinanciamentoVeiculo.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\obj\Debug\net10.0\FinanciamentoVeiculo.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\obj\Debug\net10.0\FinanciamentoVeiculo.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\obj\Debug\net10.0\FinanciamentoVeiculo.dll
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\obj\Debug\net10.0\refint\FinanciamentoVeiculo.dll
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\obj\Debug\net10.0\FinanciamentoVeiculo.pdb
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\obj\Debug\net10.0\FinanciamentoVeiculo.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\FinanciamentoVeiculo\FinanciamentoVeiculo\obj\Debug\net10.0\ref\FinanciamentoVeiculo.dll

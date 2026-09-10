@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\ExercicioOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71951D79-8A0C-4018-B2BD-044C30D01634}|ExercicioOrder\\ExercicioOrder.csproj|c:\\projetos\\cursopoonelioalves\\exercicioorder\\exercicioorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71951D79-8A0C-4018-B2BD-044C30D01634}|ExercicioOrder\\ExercicioOrder.csproj|solutionrelative:exercicioorder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ExercicioOrder\\ExercicioOrder\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioOrder\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ExercicioOrder\\ExercicioOrder\\Program.cs",
+              "RelativeToolTip": "ExercicioOrder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:42:54.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

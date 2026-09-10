@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\bin\Debug\net10.0\ExercicioMatriz.exe
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\bin\Debug\net10.0\ExercicioMatriz.deps.json
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\bin\Debug\net10.0\ExercicioMatriz.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\bin\Debug\net10.0\ExercicioMatriz.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\bin\Debug\net10.0\ExercicioMatriz.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\obj\Debug\net10.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\obj\Debug\net10.0\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\obj\Debug\net10.0\ExercicioMatriz.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\obj\Debug\net10.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\obj\Debug\net10.0\ExercicioMatriz.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\obj\Debug\net10.0\ExercicioMatriz.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\obj\Debug\net10.0\refint\ExercicioMatriz.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\obj\Debug\net10.0\ExercicioMatriz.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\obj\Debug\net10.0\ExercicioMatriz.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioMatriz\ExercicioMatriz\obj\Debug\net10.0\ref\ExercicioMatriz.dll

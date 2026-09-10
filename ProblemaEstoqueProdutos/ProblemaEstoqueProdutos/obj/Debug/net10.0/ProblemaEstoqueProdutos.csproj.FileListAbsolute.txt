@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\obj\Debug\net10.0\ProblemaEstoqueProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\obj\Debug\net10.0\ProblemaEstoqueProdutos.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\obj\Debug\net10.0\ProblemaEstoqueProdutos.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\obj\Debug\net10.0\ProblemaEstoqueProdutos.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\obj\Debug\net10.0\ProblemaEstoqueProdutos.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\bin\Debug\net10.0\ProblemaEstoqueProdutos.exe
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\bin\Debug\net10.0\ProblemaEstoqueProdutos.deps.json
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\bin\Debug\net10.0\ProblemaEstoqueProdutos.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\bin\Debug\net10.0\ProblemaEstoqueProdutos.dll
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\bin\Debug\net10.0\ProblemaEstoqueProdutos.pdb
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\obj\Debug\net10.0\ProblemaEstoqueProdutos.dll
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\obj\Debug\net10.0\refint\ProblemaEstoqueProdutos.dll
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\obj\Debug\net10.0\ProblemaEstoqueProdutos.pdb
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\obj\Debug\net10.0\ProblemaEstoqueProdutos.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ProblemaEstoqueProdutos\ProblemaEstoqueProdutos\obj\Debug\net10.0\ref\ProblemaEstoqueProdutos.dll

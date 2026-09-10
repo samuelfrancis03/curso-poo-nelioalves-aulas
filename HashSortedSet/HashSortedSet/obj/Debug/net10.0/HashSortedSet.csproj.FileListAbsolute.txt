@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\bin\Debug\net10.0\HashSortedSet.exe
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\bin\Debug\net10.0\HashSortedSet.deps.json
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\bin\Debug\net10.0\HashSortedSet.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\bin\Debug\net10.0\HashSortedSet.dll
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\bin\Debug\net10.0\HashSortedSet.pdb
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\obj\Debug\net10.0\HashSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\obj\Debug\net10.0\HashSortedSet.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\obj\Debug\net10.0\HashSortedSet.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\obj\Debug\net10.0\HashSortedSet.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\obj\Debug\net10.0\HashSortedSet.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\obj\Debug\net10.0\HashSortedSet.dll
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\obj\Debug\net10.0\refint\HashSortedSet.dll
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\obj\Debug\net10.0\HashSortedSet.pdb
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\obj\Debug\net10.0\HashSortedSet.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\HashSortedSet\HashSortedSet\obj\Debug\net10.0\ref\HashSortedSet.dll

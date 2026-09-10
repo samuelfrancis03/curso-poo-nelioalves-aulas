@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\bin\Debug\net10.0\ExercicioOrder.exe
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\bin\Debug\net10.0\ExercicioOrder.deps.json
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\bin\Debug\net10.0\ExercicioOrder.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\bin\Debug\net10.0\ExercicioOrder.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\bin\Debug\net10.0\ExercicioOrder.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\obj\Debug\net10.0\ExercicioOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\obj\Debug\net10.0\ExercicioOrder.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\obj\Debug\net10.0\ExercicioOrder.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\obj\Debug\net10.0\ExercicioOrder.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\obj\Debug\net10.0\ExercicioOrder.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\obj\Debug\net10.0\ExercicioOrder.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\obj\Debug\net10.0\refint\ExercicioOrder.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\obj\Debug\net10.0\ExercicioOrder.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\obj\Debug\net10.0\ExercicioOrder.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioOrder\ExercicioOrder\obj\Debug\net10.0\ref\ExercicioOrder.dll

@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\obj\Debug\net10.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\obj\Debug\net10.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\obj\Debug\net10.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\obj\Debug\net10.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\obj\Debug\net10.0\MembrosEstaticos.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\bin\Debug\net10.0\MembrosEstaticos.exe
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\bin\Debug\net10.0\MembrosEstaticos.deps.json
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\bin\Debug\net10.0\MembrosEstaticos.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\bin\Debug\net10.0\MembrosEstaticos.dll
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\bin\Debug\net10.0\MembrosEstaticos.pdb
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\obj\Debug\net10.0\MembrosEstaticos.dll
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\obj\Debug\net10.0\refint\MembrosEstaticos.dll
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\obj\Debug\net10.0\MembrosEstaticos.pdb
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\obj\Debug\net10.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\MembrosEstaticos\MembrosEstaticos\obj\Debug\net10.0\ref\MembrosEstaticos.dll

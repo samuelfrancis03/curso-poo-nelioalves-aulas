@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\bin\Debug\net10.0\ExercicoFixacaoLINQ.exe
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\bin\Debug\net10.0\ExercicoFixacaoLINQ.deps.json
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\bin\Debug\net10.0\ExercicoFixacaoLINQ.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\bin\Debug\net10.0\ExercicoFixacaoLINQ.dll
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\bin\Debug\net10.0\ExercicoFixacaoLINQ.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\obj\Debug\net10.0\ExercicoFixacaoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\obj\Debug\net10.0\ExercicoFixacaoLINQ.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\obj\Debug\net10.0\ExercicoFixacaoLINQ.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\obj\Debug\net10.0\ExercicoFixacaoLINQ.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\obj\Debug\net10.0\ExercicoFixacaoLINQ.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\obj\Debug\net10.0\ExercicoFixacaoLINQ.dll
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\obj\Debug\net10.0\refint\ExercicoFixacaoLINQ.dll
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\obj\Debug\net10.0\ExercicoFixacaoLINQ.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\obj\Debug\net10.0\ExercicoFixacaoLINQ.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ExercicoFixacaoLINQ\ExercicoFixacaoLINQ\obj\Debug\net10.0\ref\ExercicoFixacaoLINQ.dll

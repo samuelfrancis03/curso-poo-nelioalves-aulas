@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\bin\Debug\net10.0\SistemaRPG.exe
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\obj\Debug\net10.0\SistemaRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\obj\Debug\net10.0\SistemaRPG.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\obj\Debug\net10.0\SistemaRPG.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\obj\Debug\net10.0\SistemaRPG.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\obj\Debug\net10.0\SistemaRPG.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\obj\Debug\net10.0\SistemaRPG.dll
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\obj\Debug\net10.0\refint\SistemaRPG.dll
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\obj\Debug\net10.0\SistemaRPG.pdb
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\bin\Debug\net10.0\SistemaRPG.deps.json
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\bin\Debug\net10.0\SistemaRPG.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\bin\Debug\net10.0\SistemaRPG.dll
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\bin\Debug\net10.0\SistemaRPG.pdb
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\obj\Debug\net10.0\SistemaRPG.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\SistemaRPG\SistemaRPG\obj\Debug\net10.0\ref\SistemaRPG.dll

@@ -1,0 +1,15 @@
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\bin\Debug\net10.0\ExercicioBanco.exe
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\bin\Debug\net10.0\ExercicioBanco.deps.json
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\bin\Debug\net10.0\ExercicioBanco.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\bin\Debug\net10.0\ExercicioBanco.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\bin\Debug\net10.0\ExercicioBanco.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.sourcelink.json
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\obj\Debug\net10.0\refint\ExercicioBanco.dll
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.pdb
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\obj\Debug\net10.0\ExercicioBanco.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ExercicioBanco\ExercicioBanco\obj\Debug\net10.0\ref\ExercicioBanco.dll

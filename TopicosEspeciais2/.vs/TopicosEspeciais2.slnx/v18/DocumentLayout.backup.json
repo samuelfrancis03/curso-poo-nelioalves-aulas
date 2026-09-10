@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\TopicosEspeciais2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F0A0F3-A55E-470E-B825-801C872CE3F7}|TopicosEspeciais2\\TopicosEspeciais2.csproj|c:\\projetos\\cursopoonelioalves\\topicosespeciais2\\topicosespeciais2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F0A0F3-A55E-470E-B825-801C872CE3F7}|TopicosEspeciais2\\TopicosEspeciais2.csproj|solutionrelative:topicosespeciais2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F0A0F3-A55E-470E-B825-801C872CE3F7}|TopicosEspeciais2\\TopicosEspeciais2.csproj|c:\\projetos\\cursopoonelioalves\\topicosespeciais2\\topicosespeciais2\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F0A0F3-A55E-470E-B825-801C872CE3F7}|TopicosEspeciais2\\TopicosEspeciais2.csproj|solutionrelative:topicosespeciais2\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F0A0F3-A55E-470E-B825-801C872CE3F7}|TopicosEspeciais2\\TopicosEspeciais2.csproj|c:\\projetos\\cursopoonelioalves\\topicosespeciais2\\topicosespeciais2\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F0A0F3-A55E-470E-B825-801C872CE3F7}|TopicosEspeciais2\\TopicosEspeciais2.csproj|solutionrelative:topicosespeciais2\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\TopicosEspeciais2\\TopicosEspeciais2\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "TopicosEspeciais2\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\TopicosEspeciais2\\TopicosEspeciais2\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "TopicosEspeciais2\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T20:19:18.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\TopicosEspeciais2\\TopicosEspeciais2\\Extensions\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "TopicosEspeciais2\\Extensions\\DateTimeExtensions.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\TopicosEspeciais2\\TopicosEspeciais2\\Extensions\\DateTimeExtensions.cs",
+              "RelativeToolTip": "TopicosEspeciais2\\Extensions\\DateTimeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T20:10:56.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\TopicosEspeciais2\\TopicosEspeciais2\\Program.cs",
+              "RelativeDocumentMoniker": "TopicosEspeciais2\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\TopicosEspeciais2\\TopicosEspeciais2\\Program.cs*",
+              "RelativeToolTip": "TopicosEspeciais2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T20:06:51.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

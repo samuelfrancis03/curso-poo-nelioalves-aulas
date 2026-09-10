@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C15134D-AE87-FC9B-AB71-F72CE311DFB9}|ClassesMetodosAbstratos\\ClassesMetodosAbstratos.csproj|c:\\projetos\\cursopoonelioalves\\classesmetodosabstratos\\classesmetodosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C15134D-AE87-FC9B-AB71-F72CE311DFB9}|ClassesMetodosAbstratos\\ClassesMetodosAbstratos.csproj|solutionrelative:classesmetodosabstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C15134D-AE87-FC9B-AB71-F72CE311DFB9}|ClassesMetodosAbstratos\\ClassesMetodosAbstratos.csproj|c:\\projetos\\cursopoonelioalves\\classesmetodosabstratos\\classesmetodosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C15134D-AE87-FC9B-AB71-F72CE311DFB9}|ClassesMetodosAbstratos\\ClassesMetodosAbstratos.csproj|solutionrelative:classesmetodosabstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C15134D-AE87-FC9B-AB71-F72CE311DFB9}|ClassesMetodosAbstratos\\ClassesMetodosAbstratos.csproj|c:\\projetos\\cursopoonelioalves\\classesmetodosabstratos\\classesmetodosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C15134D-AE87-FC9B-AB71-F72CE311DFB9}|ClassesMetodosAbstratos\\ClassesMetodosAbstratos.csproj|solutionrelative:classesmetodosabstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C15134D-AE87-FC9B-AB71-F72CE311DFB9}|ClassesMetodosAbstratos\\ClassesMetodosAbstratos.csproj|c:\\projetos\\cursopoonelioalves\\classesmetodosabstratos\\classesmetodosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C15134D-AE87-FC9B-AB71-F72CE311DFB9}|ClassesMetodosAbstratos\\ClassesMetodosAbstratos.csproj|solutionrelative:classesmetodosabstratos\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C15134D-AE87-FC9B-AB71-F72CE311DFB9}|ClassesMetodosAbstratos\\ClassesMetodosAbstratos.csproj|c:\\projetos\\cursopoonelioalves\\classesmetodosabstratos\\classesmetodosabstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C15134D-AE87-FC9B-AB71-F72CE311DFB9}|ClassesMetodosAbstratos\\ClassesMetodosAbstratos.csproj|solutionrelative:classesmetodosabstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\ClassesMetodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ClassesMetodosAbstratos\\Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\ClassesMetodosAbstratos\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "ClassesMetodosAbstratos\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:33:23.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\ClassesMetodosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "ClassesMetodosAbstratos\\Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\ClassesMetodosAbstratos\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "ClassesMetodosAbstratos\\Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:24:41.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\ClassesMetodosAbstratos\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "ClassesMetodosAbstratos\\Entities\\Shape.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\ClassesMetodosAbstratos\\Entities\\Shape.cs",
+              "RelativeToolTip": "ClassesMetodosAbstratos\\Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:23:14.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\ClassesMetodosAbstratos\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesMetodosAbstratos\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\ClassesMetodosAbstratos\\Program.cs",
+              "RelativeToolTip": "ClassesMetodosAbstratos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:22:22.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\ClassesMetodosAbstratos\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "ClassesMetodosAbstratos\\Entities\\Circle.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ClassesMetodosAbstratos\\ClassesMetodosAbstratos\\Entities\\Circle.cs",
+              "RelativeToolTip": "ClassesMetodosAbstratos\\Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T14:40:34.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

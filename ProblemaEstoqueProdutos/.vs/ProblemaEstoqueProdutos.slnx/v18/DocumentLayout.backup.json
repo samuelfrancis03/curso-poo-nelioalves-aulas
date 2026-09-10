@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\CursoPooNelioAlves\\ProblemaEstoqueProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E1E185-E9A4-A062-99FD-3657B561CF1D}|ProblemaEstoqueProdutos\\ProblemaEstoqueProdutos.csproj|c:\\projetos\\cursopoonelioalves\\problemaestoqueprodutos\\problemaestoqueprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E1E185-E9A4-A062-99FD-3657B561CF1D}|ProblemaEstoqueProdutos\\ProblemaEstoqueProdutos.csproj|solutionrelative:problemaestoqueprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E1E185-E9A4-A062-99FD-3657B561CF1D}|ProblemaEstoqueProdutos\\ProblemaEstoqueProdutos.csproj|c:\\projetos\\cursopoonelioalves\\problemaestoqueprodutos\\problemaestoqueprodutos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E1E185-E9A4-A062-99FD-3657B561CF1D}|ProblemaEstoqueProdutos\\ProblemaEstoqueProdutos.csproj|solutionrelative:problemaestoqueprodutos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ProblemaEstoqueProdutos\\ProblemaEstoqueProdutos\\Produto.cs",
+              "RelativeDocumentMoniker": "ProblemaEstoqueProdutos\\Produto.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ProblemaEstoqueProdutos\\ProblemaEstoqueProdutos\\Produto.cs",
+              "RelativeToolTip": "ProblemaEstoqueProdutos\\Produto.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T12:32:14.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\CursoPooNelioAlves\\ProblemaEstoqueProdutos\\ProblemaEstoqueProdutos\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemaEstoqueProdutos\\Program.cs",
+              "ToolTip": "C:\\Projetos\\CursoPooNelioAlves\\ProblemaEstoqueProdutos\\ProblemaEstoqueProdutos\\Program.cs",
+              "RelativeToolTip": "ProblemaEstoqueProdutos\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T12:31:55.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

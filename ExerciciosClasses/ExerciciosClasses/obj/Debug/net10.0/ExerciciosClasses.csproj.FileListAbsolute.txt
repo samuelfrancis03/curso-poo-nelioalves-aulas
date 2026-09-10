@@ -1,0 +1,14 @@
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\bin\Debug\net10.0\ExerciciosClasses.exe
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\bin\Debug\net10.0\ExerciciosClasses.deps.json
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\bin\Debug\net10.0\ExerciciosClasses.runtimeconfig.json
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\bin\Debug\net10.0\ExerciciosClasses.dll
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\bin\Debug\net10.0\ExerciciosClasses.pdb
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\obj\Debug\net10.0\ExerciciosClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\obj\Debug\net10.0\ExerciciosClasses.AssemblyInfoInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\obj\Debug\net10.0\ExerciciosClasses.AssemblyInfo.cs
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\obj\Debug\net10.0\ExerciciosClasses.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\obj\Debug\net10.0\ExerciciosClasses.dll
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\obj\Debug\net10.0\refint\ExerciciosClasses.dll
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\obj\Debug\net10.0\ExerciciosClasses.pdb
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\obj\Debug\net10.0\ExerciciosClasses.genruntimeconfig.cache
+C:\Projetos\CursoPooNelioAlves\ExerciciosClasses\ExerciciosClasses\obj\Debug\net10.0\ref\ExerciciosClasses.dll
