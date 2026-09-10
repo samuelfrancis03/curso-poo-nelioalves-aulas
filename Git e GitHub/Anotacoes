@@ -1,7 +1,106 @@
 git init -> Incializa um repositorio.
 git add -> adiciona arquivos
-git status -> mostra o status dos arquivos
+git status -> mostra o status dos arquivos (area de stage)
 git commit -m "message" -> salava a nova versão no repositorio
 git branch -m "main/master" -> seleciona a branch que está usando.
-git remote add origin 'repositorio' -> seleciona o repositorio destino da sua pasta
-git push origin -u origin 'branch' -> envia os arquivos para seu repositorio
+git remote add origin 'link repositorio' -> seleciona o repositorio destino da sua pasta
+git push origin -u origin 'nome branch' -> envia os arquivos para seu repositorio
+git clone 'link repositorio' -> seleciona o repositorio destino da sua pasta
+git log -> mostra as versões dos commits
+|_ git log --online -> versão resumida
+git reset -> Tira todos os arquivos do stage
+git diff -> Mostra as alterações de arquivos
+git checkout 'codigo do commit (pode ser obtido no git log)'-> Modificar temporariamente os arquivos do projeto
+|_ git checkout HEAD~n -> Volta a versão de acordo com o numero (HEAD~1, HEAD~2, HEAD~3...)
+|_ IMPORTANTE: Não modificar os arquivos no checkout
+git pull 'nome do remote' 'nome branch' -> Pusha as informações do GitHub para o repositorio local
+git remote -v -> verifica o origin do seu repositorio online
+
+*Como desfazer modificações não salvas*
+git status
+git reset
+git clean -df
+git checkout -- .
+
+*Como desfazer o ultimo commit, mantendo as modificações*
+git status
+git reset --soft HEAD~1
+
+*Como desfazer o ultimo commit, deletando as modificações*
+git status
+git reset --hard 'codigo do commit (pode ser obtido no git log)'
+|_ git reset --hard HEAD~1 -> Volta ao estado do ultimo commit
+
+*Como atualizar o repositorio local em relação ao remoto*
+git status
+git pull 'nome do remote' 'nome branch'
+
+*Como resolver push rejeitado por historico diferentes*
+Não é permitido enviar um push se o repositorio local está atrasado em relação ao histórico do repositorio remotro.
+IMPORTANTE: atualizar o repositorio local
+
+git pull 'nome do remote' 'nome branch'
+(
+    Se abrir o VIM:
+    i
+    Escrever o commit
+    <ESC>   |
+    :wq     | -> Sair do VIM, salvando modifações
+    <ENTER> 
+)
+git push origin -u origin 'nome branch'
+
+*Como sobrescrever um historico no GitHub*
+git push origin -f origin 'nome branch' -> Força que as alterações do repositorio local sejam as definitivas 
+
+
+*Como apontar o projeto para outro repositorio*
+git remote -v
+git remote set-url origin 'link repositorio' -> trocando o link do repositorio
+
+*O que fazer quando abre o editor VIM*
+Pode abrir quando: Fazer um commit sem mensagem, fazer um merge de três vias
+i -> Habilitar a edição
+
+<ESC>   |
+:wq     | -> Sair do VIM, salvando modifações
+<ENTER> |
+
+<ESC>   |
+:q!     | -> Sair do VIM, descartando modifações
+<ENTER> |
+
+
+*Status de arquivos*
+-Vermelho- (Arquivos pendentes)
+Modified -> Arquivos já existentes que foram modificados.
+Untracked -> Arquivos novos, que não foram adicionados
+Deleted -> Arquivos deletados
+
+-Verde- (arquivos adicionados, esperando commit)
+
+*Arquivo .gitgnore*
+- É um arquivo que indica o que não deve ser salvo pelo o git, exemplo:
+Arquivos compilados, bibliotecas usadas no projeto, arquivos de config do sistema, etc...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
